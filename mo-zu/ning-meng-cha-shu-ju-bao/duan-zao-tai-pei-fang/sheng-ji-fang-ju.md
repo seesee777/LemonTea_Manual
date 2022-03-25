@@ -1,8 +1,6 @@
 # 升級：防具
 
-
-
-![ 皮革帽子 + 鱗甲 → 海龜殼（海龟壳）](<../../../.gitbook/assets/scute-turtle\_helmet\_from\_smithing\_leather\_helmet (1).jpg>)
+![皮革帽子 + 鱗甲 → 海龜殼（海龟壳）](<../../../.gitbook/assets/scute-turtle\_helmet\_from\_smithing\_leather\_helmet (1) (1).jpg>)
 
 ![海龜殼 + 金錠 → 黃金頭盔（金头盔）](../../../.gitbook/assets/golden\_helmet\_from\_smithing\_turtle\_helmet.jpg)
 

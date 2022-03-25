@@ -46,12 +46,3 @@
 
 * [🧩 混亂時空城](si-fu-qi/hun-luan-shi-kong-cheng/README.md)
   * [服務器成員](si-fu-qi/hun-luan-shi-kong-cheng/fu-wu-qi-cheng-yuan.md)
-
-***
-
-* [test](test/README.md)
-  * [content](test/content/README.md)
-    * [index\_chs](test/content/index\_chs.md)
-  * [index\_cht](test/index\_cht.md)
-  * [index\_en](test/index\_en.md)
-  * [language](test/language.md)
