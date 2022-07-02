@@ -12,8 +12,8 @@ This is a \<MINECRAFT\> Datapack designed to speeds up player development in Sur
 
 ### Language 语言 語言
 
-[English Manual](https://github.com/seesee777/LemonTea_Manual/wiki/home_en-us.md)
+[English Manual](https://github.com/seesee777/LemonTea_Manual/wiki/home_en-us)
 
-[中文简体用户手冊](https://github.com/seesee777/LemonTea_Manual/wiki/home_zh-cn.md)
+[中文简体用户手冊](https://github.com/seesee777/LemonTea_Manual/wiki/home_zh-cn)
 
-[中文繁體用戶手冊](https://github.com/seesee777/LemonTea_Manual/wiki/home_zh-tw.md)
+[中文繁體用戶手冊](https://github.com/seesee777/LemonTea_Manual/wiki/home_zh-tw)
