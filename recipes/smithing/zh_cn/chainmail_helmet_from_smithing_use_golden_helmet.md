@@ -1,0 +1,46 @@
+<table>
+	<tablebody>
+		<tr>
+			<td colspan="5">锻造台</td>
+		</tr>
+		<tr>
+			<td><img src="C:/Users/seese/Files/Projects/MC_datapacks/recipe_auto_manual/LemonTea_auto_recipes/output/mc_icon/combat/golden_helmet.png"></td>
+			<td><img src="C:/Users/seese/Files/Projects/MC_datapacks/recipe_auto_manual/LemonTea_auto_recipes/output/mc_icon/recipes/cross.png"></td>
+			<td><img src="C:/Users/seese/Files/Projects/MC_datapacks/recipe_auto_manual/LemonTea_auto_recipes/output/mc_icon/decorations/chain.png"></td>
+			<td><img src="C:/Users/seese/Files/Projects/MC_datapacks/recipe_auto_manual/LemonTea_auto_recipes/output/mc_icon/recipes/arrow.png"></td>
+			<td><img src="C:/Users/seese/Files/Projects/MC_datapacks/recipe_auto_manual/LemonTea_auto_recipes/output/mc_icon/combat/chainmail_helmet.png"></td>
+		</tr>
+	</tablebody>
+</table>
+<table>
+	<tablebody>
+		<tr>
+			<td><img src="C:/Users/seese/Files/Projects/MC_datapacks/recipe_auto_manual/LemonTea_auto_recipes/output/mc_icon/recipes/tile.png"></td>
+			<td>图标</td>
+			<td>名称</td>
+			<td>标签</td>
+			<td>数量</td>
+		</tr>
+		<tr>
+			<td><img src="C:/Users/seese/Files/Projects/MC_datapacks/recipe_auto_manual/LemonTea_auto_recipes/output/mc_icon/recipes/single.png"></td>
+			<td><img src="C:/Users/seese/Files/Projects/MC_datapacks/recipe_auto_manual/LemonTea_auto_recipes/output/mc_icon/combat/golden_helmet.png"></td>
+			<td>金头盔</td>
+			<td>golden_helmet</td>
+			<td>1</td>
+		</tr>
+		<tr>
+			<td><img src="C:/Users/seese/Files/Projects/MC_datapacks/recipe_auto_manual/LemonTea_auto_recipes/output/mc_icon/recipes/cross.png"></td>
+			<td><img src="C:/Users/seese/Files/Projects/MC_datapacks/recipe_auto_manual/LemonTea_auto_recipes/output/mc_icon/decorations/chain.png"></td>
+			<td>锁链</td>
+			<td>chain</td>
+			<td>1</td>
+		</tr>
+		<tr>
+			<td><img src="C:/Users/seese/Files/Projects/MC_datapacks/recipe_auto_manual/LemonTea_auto_recipes/output/mc_icon/recipes/arrow.png"></td>
+			<td><img src="C:/Users/seese/Files/Projects/MC_datapacks/recipe_auto_manual/LemonTea_auto_recipes/output/mc_icon/combat/chainmail_helmet.png"></td>
+			<td>锁链头盔</td>
+			<td>chainmail_helmet</td>
+			<td>1</td>
+		</tr>
+	</tablebody>
+</table>

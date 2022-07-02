@@ -1,0 +1,66 @@
+<table>
+	<tablebody>
+		<tr>
+			<td colspan="5">Crafting Table: Shapeless</td>
+		</tr>
+		<tr>
+			<td><img src="C:/Users/seese/Files/Projects/MC_datapacks/recipe_auto_manual/LemonTea_auto_recipes/output/mc_icon/buildingBlocks/glass/red_stained_glass.png"></td>
+			<td><img src="C:/Users/seese/Files/Projects/MC_datapacks/recipe_auto_manual/LemonTea_auto_recipes/output/mc_icon/misc/dye/gray_dye.png"></td>
+			<td><img src="C:/Users/seese/Files/Projects/MC_datapacks/recipe_auto_manual/LemonTea_auto_recipes/output/mc_icon/recipes/empty.png"></td>
+			<td colspan="2"></td>
+		</tr>
+		<tr>
+			<td><img src="C:/Users/seese/Files/Projects/MC_datapacks/recipe_auto_manual/LemonTea_auto_recipes/output/mc_icon/recipes/empty.png"></td>
+			<td><img src="C:/Users/seese/Files/Projects/MC_datapacks/recipe_auto_manual/LemonTea_auto_recipes/output/mc_icon/recipes/empty.png"></td>
+			<td><img src="C:/Users/seese/Files/Projects/MC_datapacks/recipe_auto_manual/LemonTea_auto_recipes/output/mc_icon/recipes/empty.png"></td>
+			<td><img src="C:/Users/seese/Files/Projects/MC_datapacks/recipe_auto_manual/LemonTea_auto_recipes/output/mc_icon/recipes/arrow.png"></td>
+			<td><img src="C:/Users/seese/Files/Projects/MC_datapacks/recipe_auto_manual/LemonTea_auto_recipes/output/mc_icon/buildingBlocks/glass/gray_stained_glass.png"></td>
+		</tr>
+		<tr>
+			<td><img src="C:/Users/seese/Files/Projects/MC_datapacks/recipe_auto_manual/LemonTea_auto_recipes/output/mc_icon/recipes/empty.png"></td>
+			<td><img src="C:/Users/seese/Files/Projects/MC_datapacks/recipe_auto_manual/LemonTea_auto_recipes/output/mc_icon/recipes/empty.png"></td>
+			<td><img src="C:/Users/seese/Files/Projects/MC_datapacks/recipe_auto_manual/LemonTea_auto_recipes/output/mc_icon/recipes/empty.png"></td>
+			<td colspan="2"></td>
+		</tr>
+	</tablebody>
+</table>
+<table>
+	<tablebody>
+		<tr>
+			<td><img src="C:/Users/seese/Files/Projects/MC_datapacks/recipe_auto_manual/LemonTea_auto_recipes/output/mc_icon/recipes/tile.png"></td>
+			<td>ICON</td>
+			<td>NAME</td>
+			<td>ID</td>
+			<td>Count</td>
+		</tr>
+		<tr>
+			<td><img src="C:/Users/seese/Files/Projects/MC_datapacks/recipe_auto_manual/LemonTea_auto_recipes/output/mc_icon/recipes/arrow.png"></td>
+			<td><img src="C:/Users/seese/Files/Projects/MC_datapacks/recipe_auto_manual/LemonTea_auto_recipes/output/mc_icon/buildingBlocks/glass/gray_stained_glass.png"></td>
+			<td>Gray Stained Glass</td>
+			<td>gray_stained_glass</td>
+			<td>1</td>
+		</tr>
+		<tr>
+			<td rowspan="2"><img src="C:/Users/seese/Files/Projects/MC_datapacks/recipe_auto_manual/LemonTea_auto_recipes/output/mc_icon/recipes/01.png"></td>
+			<td><img src="C:/Users/seese/Files/Projects/MC_datapacks/recipe_auto_manual/LemonTea_auto_recipes/output/mc_icon/buildingBlocks/glass/red_stained_glass.png"></td>
+			<td><a>Stained Glass</a></td>
+			<td><a>stained_glass</a></td>
+			<td rowspan="2">1</td>
+		</tr>
+		<tr>
+			<td><img src="C:/Users/seese/Files/Projects/MC_datapacks/recipe_auto_manual/LemonTea_auto_recipes/output/mc_icon/buildingBlocks/glass/glass.png"></td>
+			<td>Glass</td>
+			<td>glass</td>
+		</tr>
+		<tr>
+			<td><img src="C:/Users/seese/Files/Projects/MC_datapacks/recipe_auto_manual/LemonTea_auto_recipes/output/mc_icon/recipes/02.png"></td>
+			<td><img src="C:/Users/seese/Files/Projects/MC_datapacks/recipe_auto_manual/LemonTea_auto_recipes/output/mc_icon/misc/dye/gray_dye.png"></td>
+			<td>Gray Dye</td>
+			<td>gray_dye</td>
+			<td>1</td>
+		</tr>
+	</tablebody>
+</table>
+
+
+[Stained Glass](stained_glass.md)
