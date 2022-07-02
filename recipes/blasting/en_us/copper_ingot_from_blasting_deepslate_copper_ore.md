@@ -1,0 +1,41 @@
+<table>
+	<tablebody>
+		<tr>
+			<td colspan="3">Blast Furnace</td>
+			<td>Time</td>
+			<td>Experience</td>
+		</tr>
+		<tr>
+			<td><img src="C:/Users/seese/Files/Projects/MC_datapacks/recipe_auto_manual/LemonTea_auto_recipes/output/mc_icon/buildingBlocks/ore/deepslate_copper_ore.png"></td>
+			<td><img src="C:/Users/seese/Files/Projects/MC_datapacks/recipe_auto_manual/LemonTea_auto_recipes/output/mc_icon/recipes/arrow.png"></td>
+			<td><img src="C:/Users/seese/Files/Projects/MC_datapacks/recipe_auto_manual/LemonTea_auto_recipes/output/mc_icon/buildingBlocks/copper/copper_block.png"></td>
+			<td>100</td>
+			<td>7</td>
+		</tr>
+	</tablebody>
+</table>
+<table>
+	<tablebody>
+		<tr>
+			<td><img src="C:/Users/seese/Files/Projects/MC_datapacks/recipe_auto_manual/LemonTea_auto_recipes/output/mc_icon/recipes/tile.png"></td>
+			<td>ICON</td>
+			<td>NAME</td>
+			<td>ID</td>
+			<td>Count</td>
+		</tr>
+		<tr>
+			<td><img src="C:/Users/seese/Files/Projects/MC_datapacks/recipe_auto_manual/LemonTea_auto_recipes/output/mc_icon/recipes/single.png"></td>
+			<td><img src="C:/Users/seese/Files/Projects/MC_datapacks/recipe_auto_manual/LemonTea_auto_recipes/output/mc_icon/buildingBlocks/ore/deepslate_copper_ore.png"></td>
+			<td>Deepslate Copper Ore</td>
+			<td>deepslate_copper_ore</td>
+			<td>1</td>
+		</tr>
+		<tr>
+			<td><img src="C:/Users/seese/Files/Projects/MC_datapacks/recipe_auto_manual/LemonTea_auto_recipes/output/mc_icon/recipes/arrow.png"></td>
+			<td><img src="C:/Users/seese/Files/Projects/MC_datapacks/recipe_auto_manual/LemonTea_auto_recipes/output/mc_icon/buildingBlocks/copper/copper_block.png"></td>
+			<td>Block of Copper</td>
+			<td>copper_block</td>
+			<td>1</td>
+		</tr>
+	</tablebody>
+</table>

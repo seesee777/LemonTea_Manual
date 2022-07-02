@@ -1,0 +1,89 @@
+<table>
+	<tablebody>
+		<tr>
+			<td>圖示</td>
+			<td>名稱</td>
+			<td>標簽</td>
+		</tr>
+		<tr>
+			<td><img src="C:/Users/seese/Files/Projects/MC_datapacks/recipe_auto_manual/LemonTea_auto_recipes/output/mc_icon/decorations/carpet/red_carpet.png"></td>
+			<td>紅色地毯</td>
+			<td>red_carpet</td>
+		</tr>
+		<tr>
+			<td><img src="C:/Users/seese/Files/Projects/MC_datapacks/recipe_auto_manual/LemonTea_auto_recipes/output/mc_icon/decorations/carpet/blue_carpet.png"></td>
+			<td>藍色地毯</td>
+			<td>blue_carpet</td>
+		</tr>
+		<tr>
+			<td><img src="C:/Users/seese/Files/Projects/MC_datapacks/recipe_auto_manual/LemonTea_auto_recipes/output/mc_icon/decorations/carpet/cyan_carpet.png"></td>
+			<td>青色地毯</td>
+			<td>cyan_carpet</td>
+		</tr>
+		<tr>
+			<td><img src="C:/Users/seese/Files/Projects/MC_datapacks/recipe_auto_manual/LemonTea_auto_recipes/output/mc_icon/decorations/carpet/gray_carpet.png"></td>
+			<td>灰色地毯</td>
+			<td>gray_carpet</td>
+		</tr>
+		<tr>
+			<td><img src="C:/Users/seese/Files/Projects/MC_datapacks/recipe_auto_manual/LemonTea_auto_recipes/output/mc_icon/decorations/carpet/lime_carpet.png"></td>
+			<td>淺綠色地毯</td>
+			<td>lime_carpet</td>
+		</tr>
+		<tr>
+			<td><img src="C:/Users/seese/Files/Projects/MC_datapacks/recipe_auto_manual/LemonTea_auto_recipes/output/mc_icon/decorations/carpet/pink_carpet.png"></td>
+			<td>粉紅色地毯</td>
+			<td>pink_carpet</td>
+		</tr>
+		<tr>
+			<td><img src="C:/Users/seese/Files/Projects/MC_datapacks/recipe_auto_manual/LemonTea_auto_recipes/output/mc_icon/decorations/carpet/black_carpet.png"></td>
+			<td>黑色地毯</td>
+			<td>black_carpet</td>
+		</tr>
+		<tr>
+			<td><img src="C:/Users/seese/Files/Projects/MC_datapacks/recipe_auto_manual/LemonTea_auto_recipes/output/mc_icon/decorations/carpet/brown_carpet.png"></td>
+			<td>棕色地毯</td>
+			<td>brown_carpet</td>
+		</tr>
+		<tr>
+			<td><img src="C:/Users/seese/Files/Projects/MC_datapacks/recipe_auto_manual/LemonTea_auto_recipes/output/mc_icon/decorations/carpet/green_carpet.png"></td>
+			<td>綠色地毯</td>
+			<td>green_carpet</td>
+		</tr>
+		<tr>
+			<td><img src="C:/Users/seese/Files/Projects/MC_datapacks/recipe_auto_manual/LemonTea_auto_recipes/output/mc_icon/decorations/carpet/white_carpet.png"></td>
+			<td>白色地毯</td>
+			<td>white_carpet</td>
+		</tr>
+		<tr>
+			<td><img src="C:/Users/seese/Files/Projects/MC_datapacks/recipe_auto_manual/LemonTea_auto_recipes/output/mc_icon/decorations/carpet/orange_carpet.png"></td>
+			<td>橙色地毯</td>
+			<td>orange_carpet</td>
+		</tr>
+		<tr>
+			<td><img src="C:/Users/seese/Files/Projects/MC_datapacks/recipe_auto_manual/LemonTea_auto_recipes/output/mc_icon/decorations/carpet/purple_carpet.png"></td>
+			<td>紫色地毯</td>
+			<td>purple_carpet</td>
+		</tr>
+		<tr>
+			<td><img src="C:/Users/seese/Files/Projects/MC_datapacks/recipe_auto_manual/LemonTea_auto_recipes/output/mc_icon/decorations/carpet/yellow_carpet.png"></td>
+			<td>黃色地毯</td>
+			<td>yellow_carpet</td>
+		</tr>
+		<tr>
+			<td><img src="C:/Users/seese/Files/Projects/MC_datapacks/recipe_auto_manual/LemonTea_auto_recipes/output/mc_icon/decorations/carpet/magenta_carpet.png"></td>
+			<td>洋紅色地毯</td>
+			<td>magenta_carpet</td>
+		</tr>
+		<tr>
+			<td><img src="C:/Users/seese/Files/Projects/MC_datapacks/recipe_auto_manual/LemonTea_auto_recipes/output/mc_icon/decorations/carpet/light_blue_carpet.png"></td>
+			<td>淺藍色地毯</td>
+			<td>light_blue_carpet</td>
+		</tr>
+		<tr>
+			<td><img src="C:/Users/seese/Files/Projects/MC_datapacks/recipe_auto_manual/LemonTea_auto_recipes/output/mc_icon/decorations/carpet/light_gray_carpet.png"></td>
+			<td>淺灰色地毯</td>
+			<td>light_gray_carpet</td>
+		</tr>
+	</tablebody>
+</table>
