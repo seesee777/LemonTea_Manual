@@ -8,6 +8,7 @@
   * [茶方]()
 * 标签集
 
+![gif](gif/test.gif)
 
 ![abcdefg](/gif/test.gif)
 
