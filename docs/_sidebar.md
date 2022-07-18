@@ -2,5 +2,5 @@
 
 * [Home | 首页](/)
 * [Translations | 语言](translations.md)
-  * [English](en_us/)
-  * [中文](zh_cn/)
+  * [English](en_us/readme.md)
+  * [中文](zh_cn/readme.md)

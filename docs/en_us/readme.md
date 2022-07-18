@@ -1,3 +1,3 @@
 # Contents
-* [recipe](en_us/recipes/)
-* [Item Tags](en_us/tags/)
+* [recipe](en_us/recipes/readme.md)
+* [Item Tags](en_us/tags/readme.md)

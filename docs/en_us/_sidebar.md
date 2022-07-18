@@ -1,5 +1,5 @@
 <!-- _navbar.md -->
 * [Home](/)
-* [Contents](en_us/)
-  * [Recipes](en_us/recipes/)
-  * [Item Tags](en_us/tags/)
+* [Contents](en_us/readme.md)
+  * [Recipes](en_us/recipes/readme.md)
+  * [Item Tags](en_us/tags/readme.md)
