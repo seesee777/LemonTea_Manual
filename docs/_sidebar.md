@@ -1,5 +1,0 @@
-* [HOME](/)
-  * [Englist](en_us/)
-  * [中文简体](zh_cn/)
-    * [粘土](zh_cn/clay__zh_cn/)
-  * [中文繁體](zh_tw/)
