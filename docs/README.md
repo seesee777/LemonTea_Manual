@@ -17,7 +17,7 @@ This is a \<MINECRAFT\> Datapack designed to speeds up player development in Sur
 
 [English Manual](/en_us/)
 
-[中文简体用户手冊](/zh_cn/)
+[中文简体用户手冊](/zh_cn/readmd.md)
 
 [中文繁體用戶手冊](/zh_tw/)
 
