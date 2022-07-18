@@ -15,11 +15,17 @@ This is a \<MINECRAFT\> Datapack designed to speeds up player development in Sur
 
 ### Language 语言 語言
 
-[English Manual](/en_us/)
+[English Manual](en_us/)
 
-[中文简体用户手冊](/zh_cn/)
+[zh_cn/](zh_cn/)
 
-[中文繁體用戶手冊](/zh_tw/)
+[zh_cn/README.md](zh_cn/README.md)
+
+[zh_cn/README](zh_cn/README)
+
+[https://seesee777.github.io/LemonTea_Manual/#/zh_cn/README.md]([zh_cn/README.md](https://seesee777.github.io/LemonTea_Manual/#/zh_cn/README.md)
+
+[中文繁體用戶手冊](zh_tw/)
 
 
 ### Thanks 鸣谢 鳴謝

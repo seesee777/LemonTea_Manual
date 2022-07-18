@@ -1,7 +1,6 @@
 <!-- _coverpage.md -->
 
-<!-- ![logo](gif/lemon%20tea%20icon_1080.jpg) -->
-![gif](gif/test.gif)
+![gif](image/test.gif)
 
 # docsify <small>3.5</small>
 
@@ -12,4 +11,4 @@
 - 众多主题
 
 [GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](#docsify)
+[Get Started](#Lemon_Tea)
