@@ -1,7 +1,7 @@
 # 目录
 
 * 配方
-  * [粘土](/zh_cn/clay__zh_cn/)
+  * [粘土](/zh_cn/clay__zh_cn/brick__brick__crafting__zh_cn.md)
   * [煤](/zh_cn/combat__zh_cn/)
 * 制茶
   * [茶炉]()
