@@ -1,4 +1,4 @@
-# Lenon Tea | 柠檬茶
+# Lemon Tea | 柠檬茶
 
 > This is a <MINECRAFT> datapack for speedup player develop in survival mode.
 > 
@@ -6,20 +6,8 @@
 
 [>> Translations | 语言选择](translations.md)
 
-subfolder
+<!-- [en_us/readme](en_us/readme) -->
 
-<!-- [en_us/](en_us/) 不能用 -->
+<!-- [en_us/readme.md](en_us/readme.md) -->
 
-[en_us/readme](en_us/readme)
-
-[en_us/readme.md](en_us/readme.md)
-
-<!-- [/en_us/](/en_us/) 不能用 -->
-
-[/en_us/readme](/en_us/readme)
-
-[/en_us/readme.md](/en_us/readme.md)
-
-<!-- [https://github.com/seesee777/LemonTea_Manual/blob/docsify/docs/en_us/readme.md](https://github.com/seesee777/LemonTea_Manual/blob/docsify/docs/en_us/readme.md) 不能用 -->
-
-![tea](image/tea.jpg)
+<!-- ![tea](image/tea.jpg) -->
