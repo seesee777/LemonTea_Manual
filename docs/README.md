@@ -36,5 +36,18 @@ This is a Minecraft data pack that speeds up player progression in Survival Mode
 
 [Email](mailto:bittoy@outlook.com)
 
+mc_icon/buildingBlocks/bricks.png
+
+<img src="mc_icon/buildingBlocks/bricks.png">
+
+/mc_icon/buildingBlocks/bricks.png
+
 <img src="/mc_icon/buildingBlocks/bricks.png">
+
+./mc_icon/buildingBlocks/bricks.png
+
+<img src="./mc_icon/buildingBlocks/bricks.png">
+
+../docs/mc_icon/buildingBlocks/bricks.png
+
 <img src="../docs/mc_icon/buildingBlocks/bricks.png">
