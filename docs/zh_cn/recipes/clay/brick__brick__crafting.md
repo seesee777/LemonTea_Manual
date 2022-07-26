@@ -22,6 +22,10 @@
 
 <img src="/mc_icon/buildingBlocks/bricks.png">
 
+./mc_icon/buildingBlocks/bricks.png
+
+<img src="./mc_icon/buildingBlocks/bricks.png">
+
 docs/mc_icon/buildingBlocks/bricks.png
 
 <img src="docs//mc_icon/buildingBlocks/bricks.png">
