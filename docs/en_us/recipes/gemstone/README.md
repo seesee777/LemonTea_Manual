@@ -1,0 +1,18 @@
+# Gemstone
+
+Product | Material | Workstation
+
+[Block of Amethyst | Any Material | Craft Table](/en_us/recipes/gemstone/amethyst_block__any_material__crafting.md)
+
+[Amethyst Shard | Lapis Lazuli | Craft Table](/en_us/recipes/gemstone/amethyst_shard__lapis_lazuli__crafting.md)
+
+[Diamond | Emerald | Craft Table](/en_us/recipes/gemstone/diamond__emerald__crafting.md)
+
+[Emerald | Redstone Dust | Craft Table](/en_us/recipes/gemstone/emerald__redstone__crafting.md)
+
+[Lapis Lazuli | Nether Quartz | Crafting Table: Shaped](/en_us/recipes/gemstone/lapis_lazuli__quartz__crafting_shaped.md)
+
+[Nether Quartz | Flint | Crafting Table: Shaped](/en_us/recipes/gemstone/quartz__flint__crafting_shaped.md)
+
+[Redstone Dust | Amethyst Shard | Craft Table](/en_us/recipes/gemstone/redstone__amethyst_shard__crafting.md)
+

@@ -1,0 +1,18 @@
+# Colored Wool
+
+Product | Material | Workstation
+
+[Colored Bed | Colored Bed | Crafting Table: Shapeless](/en_us/recipes/wool/bed__tag_bed__crafting_shapeless.md)
+
+[Colored Carpet | Colored Carpet | Crafting Table: Shaped](/en_us/recipes/wool/carpet__tag_carpet__crafting_shaped.md)
+
+[Colored Carpet | Colored Carpet | Crafting Table: Shapeless](/en_us/recipes/wool/carpet__tag_carpet__crafting_shapeless.md)
+
+[String | Any Material | Workstation](/en_us/recipes/wool/string__any_material__workstation.md)
+
+[Colored Wool | Any Material | Workstation](/en_us/recipes/wool/wool__any_material__workstation.md)
+
+[Colored Wool | Colored Wool | Crafting Table: Shaped](/en_us/recipes/wool/wool__tag_wool__crafting_shaped.md)
+
+[Colored Wool | Colored Wool | Crafting Table: Shapeless](/en_us/recipes/wool/wool__tag_wool__crafting_shapeless.md)
+

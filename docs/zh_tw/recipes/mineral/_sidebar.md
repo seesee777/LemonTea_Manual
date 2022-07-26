@@ -1,0 +1,5 @@
+* [封面](/)
+* [概述](/README.md)
+* [目錄](/zh_tw/README.md)
+  * [方塊 | 礦 | 高爐](/zh_tw/recipes/mineral/block__ore__blasting.md)
+  * [錠 | 任意原料 | 熔爐](/zh_tw/recipes/mineral/ingot__any_material__smelting.md)

@@ -1,5 +1,64 @@
-# recipes
+# [Tags](/en_us/tags/README.md)
 
-[wood](en_us/tags/wood.md)
+[Colored Bed](/en_us/tags/tag__bed.md)
 
-[golden](en_us/tags/golden.md)
+[Colored Carpet](/en_us/tags/tag__carpet.md)
+
+[Chainmail Armor](/en_us/tags/tag__chainmail_armor.md)
+
+[Colored Terracotta](/en_us/tags/tag__colored_terracotta.md)
+
+[Concrete](/en_us/tags/tag__concrete.md)
+
+[Concrete Powder](/en_us/tags/tag__concrete_powder.md)
+
+[Coral](/en_us/tags/tag__coral.md)
+
+[Coral Block](/en_us/tags/tag__coral_block.md)
+
+[Coral Fan](/en_us/tags/tag__coral_fan.md)
+
+[Dead Coral](/en_us/tags/tag__dead_coral.md)
+
+[Dead Coral Block](/en_us/tags/tag__dead_coral_block.md)
+
+[Dead Coral Fan](/en_us/tags/tag__dead_coral_fan.md)
+
+[Diamond Armor](/en_us/tags/tag__diamond_armor.md)
+
+[Diamond Tool](/en_us/tags/tag__diamond_tool.md)
+
+[Glazed Terracotta](/en_us/tags/tag__glazed_terracotta.md)
+
+[Golden Armor](/en_us/tags/tag__golden_armor.md)
+
+[Golden Tool](/en_us/tags/tag__golden_tool.md)
+
+[Iron Armor](/en_us/tags/tag__iron_armor.md)
+
+[Iron Tool](/en_us/tags/tag__iron_tool.md)
+
+[Leather Armor](/en_us/tags/tag__leather_armor.md)
+
+[Leaves](/en_us/tags/tag__leaves.md)
+
+[Minecart](/en_us/tags/tag__minecart_products.md)
+
+[Mob Heads](/en_us/tags/tag__mob_head.md)
+
+[Music Disk](/en_us/tags/tag__music_disk.md)
+
+[Netherite Armor](/en_us/tags/tag__netherite_armor.md)
+
+[Netherite Tool](/en_us/tags/tag__netherite_tool.md)
+
+[Shulker Box](/en_us/tags/tag__shulker_box.md)
+
+[Stained Glass](/en_us/tags/tag__stained_glass.md)
+
+[Stained Glass Pane](/en_us/tags/tag__stained_glass_pane.md)
+
+[Wooden Slab](/en_us/tags/tag__wooden_slabs.md)
+
+[Colored Wool](/en_us/tags/tag__wool.md)
+

@@ -1,0 +1,22 @@
+# Wood
+
+Product | Material | Workstation
+
+[Log | Planks | Crafting Table: Shaped](/en_us/recipes/wood/log__plank__crafting_shaped.md)
+
+[Log | Wood | Crafting Table: Shaped](/en_us/recipes/wood/log__wood__crafting_shaped.md)
+
+[Planks | Slab | Crafting Table: Shapeless](/en_us/recipes/wood/planks__slab__crafting_shapeless.md)
+
+[Planks | Wooden | Crafting Table: Shapeless](/en_us/recipes/wood/plank__wooden_product__crafting_shapeless.md)
+
+[Stick | Any Material | Crafting Table: Shapeless](/en_us/recipes/wood/stick__any_material__crafting_shapeless.md)
+
+[Stripped Log | Log | Stonecutter](/en_us/recipes/wood/stripped_log__log__stonecutting.md)
+
+[Stripped Log | Stripped | Crafting Table: Shaped](/en_us/recipes/wood/stripped_log__stripped__crafting_shaped.md)
+
+[Stripped Wood | Wood | Stonecutter](/en_us/recipes/wood/stripped_wood__wood__stonecutting.md)
+
+[Wooden | Planks | Stonecutter](/en_us/recipes/wood/wooden_product__plank__stonecutting.md)
+

@@ -1,0 +1,8 @@
+* [Cover](/)
+* [Summary](/README.md)
+* [Content](/en_us/README.md)
+  * [Glass | Any Material | Workstation](/en_us/recipes/glass/glass_product__any_material__workstation.md)
+  * [Stained Glass Pane | Stained Glass Pane | Crafting Table: Shaped](/en_us/recipes/glass/stained_glass_pane__tag_stained_glass_pane__crafting_shaped.md)
+  * [Stained Glass Pane | Stained Glass Pane | Crafting Table: Shapeless](/en_us/recipes/glass/stained_glass_pane__tag_stained_glass_pane__crafting_shapeless.md)
+  * [Stained Glass | Stained Glass | Crafting Table: Shaped](/en_us/recipes/glass/stained_glass__tag_stained_glass__crafting_shaped.md)
+  * [Stained Glass | Stained Glass | Crafting Table: Shapeless](/en_us/recipes/glass/stained_glass__tag_stained_glass__crafting_shapeless.md)

@@ -1,0 +1,8 @@
+# Sand
+
+Product | Material | Workstation
+
+[Sand | Any Material | Craft Table](/en_us/recipes/sand/sand__any_material__crafting.md)
+
+[Sand | Sandstone | Stonecutter](/en_us/recipes/sand/sand__sandstone__stonecutting.md)
+

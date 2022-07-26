@@ -1,5 +1,50 @@
-# 配方
+# [配方](/zh_cn/recipes/README.md)
 
-[粘土](zh_cn/recipes/clay.md)
+[黏土块](/zh_cn/recipes/clay/README.md)
 
-[砖块](zh_cn/recipes/brick.md)
+[战斗用品](/zh_cn/recipes/combat/README.md)
+
+[染色混凝土](/zh_cn/recipes/concrete/README.md)
+
+[珊瑚](/zh_cn/recipes/coral/README.md)
+
+[附魔](/zh_cn/recipes/enchanted/README.md)
+
+[游戏菜单](/zh_cn/recipes/game/README.md)
+
+[宝石](/zh_cn/recipes/gemstone/README.md)
+
+[玻璃](/zh_cn/recipes/glass/README.md)
+
+[熔岩](/zh_cn/recipes/lava/README.md)
+
+[皮革](/zh_cn/recipes/leather/README.md)
+
+[金属](/zh_cn/recipes/metal/README.md)
+
+[矿物](/zh_cn/recipes/mineral/README.md)
+
+[植株](/zh_cn/recipes/plant/README.md)
+
+[海晶石](/zh_cn/recipes/prismarine/README.md)
+
+[下界石英](/zh_cn/recipes/quartz/README.md)
+
+[沙子](/zh_cn/recipes/sand/README.md)
+
+[切石机](/zh_cn/recipes/stonecutting/README.md)
+
+[陶瓦](/zh_cn/recipes/terracotta/README.md)
+
+[树木和菌类](/zh_cn/recipes/tree_and_fungus/README.md)
+
+[躯干部位升级](/zh_cn/recipes/upgrade_body/README.md)
+
+[手部升级](/zh_cn/recipes/upgrade_hand/README.md)
+
+[水](/zh_cn/recipes/water/README.md)
+
+[木](/zh_cn/recipes/wood/README.md)
+
+[染色羊毛](/zh_cn/recipes/wool/README.md)
+

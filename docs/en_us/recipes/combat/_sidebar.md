@@ -1,0 +1,5 @@
+* [Cover](/)
+* [Summary](/README.md)
+* [Content](/en_us/README.md)
+  * [Chainmail | Chain | Crafting Table: Shaped](/en_us/recipes/combat/chainmail__chain__crafting_shaped.md)
+  * [Horse Armor | Any Material | Crafting Table: Shaped](/en_us/recipes/combat/horse_armor__any_material__crafting_shaped.md)

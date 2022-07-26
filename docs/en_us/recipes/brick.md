@@ -1,5 +1,0 @@
-brick
-
-brick
-
-brick

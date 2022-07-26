@@ -1,0 +1,16 @@
+# 軀幹部位升級
+
+產品 | 材料 | 工作站
+
+[鎖鏈甲 | 黃金質 | 鍛造台](/zh_tw/recipes/upgrade_body/chainmail__golden__smithing.md)
+
+[鑽石 | 鐵質 | 鍛造台](/zh_tw/recipes/upgrade_body/diamond__iron__smithing.md)
+
+[黃金質 | 皮革 | 鍛造台](/zh_tw/recipes/upgrade_body/golden__leather__smithing.md)
+
+[馬鎧 | 馬鎧 | 鍛造台](/zh_tw/recipes/upgrade_body/horse_armor__horse_armor__smithing.md)
+
+[鐵質 | 鎖鏈甲 | 鍛造台](/zh_tw/recipes/upgrade_body/iron__chainmail__smithing.md)
+
+[海龜 | 皮革 | 鍛造台](/zh_tw/recipes/upgrade_body/turtle__leather__smithing.md)
+

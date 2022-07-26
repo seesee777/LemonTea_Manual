@@ -1,0 +1,5 @@
+* [封面](/)
+* [概述](/README.md)
+* [目录](/zh_cn/README.md)
+  * [附魔 | 附魔 | 工作台: 有序](/zh_cn/recipes/enchanted/enchanted__enchanted__crafting_shaped.md)
+  * [附魔之瓶 | 任意原料 | 工作台](/zh_cn/recipes/enchanted/experience_bottle__any_material__crafting.md)

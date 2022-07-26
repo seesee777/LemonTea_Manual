@@ -1,13 +1,37 @@
-# Lemon Tea | 柠檬茶
+# Lemon Tea 檸檬茶
 
-> This is a <MINECRAFT> datapack for speedup player develop in survival mode.
-> 
-> 这是一个《我的世界》的数据包，可以加速玩家在生存模式的发展速度。
+### Overview 綜述
 
-[>> Translations | 语言选择](translations.md)
+This is a Minecraft data pack that speeds up player progression in Survival Mode.
 
-<!-- [en_us/readme](en_us/readme) -->
+這是一個《我的世界》的數據包：可以加快玩家在“生存模式”中的发展速度。
 
-<!-- [en_us/readme.md](en_us/readme.md) -->
+### Manual 手冊
 
-<!-- ![tea](image/tea.jpg) -->
+[English](/en_us/)
+
+[中文简体](/zh_cn/)
+
+[中文繁體](/zh_tw/)
+
+### Download 下載
+
+[Git Hub](https://github.com/seesee777/LemonTea/releases)
+
+### Donate 贊助
+
+[PayPal](https://www.paypal.com/paypalme/bittoystudio)
+
+[爱发电](https://afdian.net/@bittoy)
+
+### Video 視頻
+
+[YouTube](https://www.youtube.com/channel/UCQnMhMxCHEhQ5GM-5v6rVQw)
+
+[bilibili](https://space.bilibili.com/8358336)
+
+### Contact me 聯係我
+
+[Twitter](https://twitter.com/openmakermap)
+
+[Email](mailto:bittoy@outlook.com)

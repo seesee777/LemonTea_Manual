@@ -1,0 +1,18 @@
+# 宝石
+
+产品 | 材料 | 工作站
+
+[紫水晶块 | 任意原料 | 工作台](/zh_cn/recipes/gemstone/amethyst_block__any_material__crafting.md)
+
+[紫水晶碎片 | 青金石 | 工作台](/zh_cn/recipes/gemstone/amethyst_shard__lapis_lazuli__crafting.md)
+
+[钻石 | 绿宝石 | 工作台](/zh_cn/recipes/gemstone/diamond__emerald__crafting.md)
+
+[绿宝石 | 红石粉 | 工作台](/zh_cn/recipes/gemstone/emerald__redstone__crafting.md)
+
+[青金石 | 下界石英 | 工作台: 有序](/zh_cn/recipes/gemstone/lapis_lazuli__quartz__crafting_shaped.md)
+
+[下界石英 | 燧石 | 工作台: 有序](/zh_cn/recipes/gemstone/quartz__flint__crafting_shaped.md)
+
+[红石粉 | 紫水晶碎片 | 工作台](/zh_cn/recipes/gemstone/redstone__amethyst_shard__crafting.md)
+

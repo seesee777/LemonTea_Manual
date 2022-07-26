@@ -1,3 +1,12 @@
-# 目录
-* [配方](zh_cn/recipes/readme.md)
-* [标签](zh_cn/tags/readme.md)
+# [目录](/zh_cn/README.md)
+
+[功能](/zh_cn/functions/README.md)
+
+[掉落物](/zh_cn/loot_table/README.md)
+
+[配方](/zh_cn/recipes/README.md)
+
+[标签集](/zh_cn/tags/README.md)
+
+[茶室](/zh_cn/tea_room/README.md)
+

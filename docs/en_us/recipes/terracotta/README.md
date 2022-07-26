@@ -1,0 +1,12 @@
+# Terracotta
+
+Product | Material | Workstation
+
+[Glazed Terracotta | Glazed Terracotta | Crafting Table: Shaped](/en_us/recipes/terracotta/glazed_terracotta__tag_glazed_terracotta__crafting_shaped.md)
+
+[Glazed Terracotta | Glazed Terracotta | Crafting Table: Shapeless](/en_us/recipes/terracotta/glazed_terracotta__tag_glazed_terracotta__crafting_shapeless.md)
+
+[Terracotta | Colored Terracotta | Crafting Table: Shaped](/en_us/recipes/terracotta/terracotta__tag_colored_terracotta__crafting_shaped.md)
+
+[Terracotta | Colored Terracotta | Crafting Table: Shapeless](/en_us/recipes/terracotta/terracotta__tag_colored_terracotta__crafting_shapeless.md)
+

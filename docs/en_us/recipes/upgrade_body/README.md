@@ -1,0 +1,16 @@
+# Upgrade Body
+
+Product | Material | Workstation
+
+[Chainmail | Golden | Smithing Table](/en_us/recipes/upgrade_body/chainmail__golden__smithing.md)
+
+[Diamond | Iron | Smithing Table](/en_us/recipes/upgrade_body/diamond__iron__smithing.md)
+
+[Golden | Leather | Smithing Table](/en_us/recipes/upgrade_body/golden__leather__smithing.md)
+
+[Horse Armor | Horse Armor | Smithing Table](/en_us/recipes/upgrade_body/horse_armor__horse_armor__smithing.md)
+
+[Iron | Chainmail | Smithing Table](/en_us/recipes/upgrade_body/iron__chainmail__smithing.md)
+
+[Turtle | Leather | Smithing Table](/en_us/recipes/upgrade_body/turtle__leather__smithing.md)
+

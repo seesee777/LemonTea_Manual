@@ -1,0 +1,14 @@
+# 玻璃
+
+产品 | 材料 | 工作站
+
+[玻璃 | 任意原料 | 工作站](/zh_cn/recipes/glass/glass_product__any_material__workstation.md)
+
+[染色玻璃板 | 染色玻璃板 | 工作台: 有序](/zh_cn/recipes/glass/stained_glass_pane__tag_stained_glass_pane__crafting_shaped.md)
+
+[染色玻璃板 | 染色玻璃板 | 工作台: 无序](/zh_cn/recipes/glass/stained_glass_pane__tag_stained_glass_pane__crafting_shapeless.md)
+
+[染色玻璃 | 染色玻璃 | 工作台: 有序](/zh_cn/recipes/glass/stained_glass__tag_stained_glass__crafting_shaped.md)
+
+[染色玻璃 | 染色玻璃 | 工作台: 无序](/zh_cn/recipes/glass/stained_glass__tag_stained_glass__crafting_shapeless.md)
+

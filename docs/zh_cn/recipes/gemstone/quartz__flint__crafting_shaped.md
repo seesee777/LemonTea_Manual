@@ -1,0 +1,118 @@
+---
+<!-- quartz__from__crafting_shaped__use__flint.md -->
+
+<!-- zh_cn -->
+
+## 下界石英 | 工作台: 有序 | 燧石
+
+<table>
+	<tablebody>
+		<tr>
+			<td colspan="5">工作台: 有序</td>
+		</tr>
+		<tr>
+			<td><img src="../../../mc_icon/recipes/empty.png"></td>
+			<td><img src="../../../mc_icon/misc/flint.png"></td>
+			<td><img src="../../../mc_icon/recipes/empty.png"></td>
+			<td colspan="2"></td>
+		</tr>
+		<tr>
+			<td><img src="../../../mc_icon/misc/flint.png"></td>
+			<td><img src="../../../mc_icon/misc/flint.png"></td>
+			<td><img src="../../../mc_icon/misc/flint.png"></td>
+			<td><img src="../../../mc_icon/recipes/arrow.png"></td>
+			<td><img src="../../../mc_icon/misc/quartz.png"></td>
+		</tr>
+		<tr>
+			<td><img src="../../../mc_icon/recipes/empty.png"></td>
+			<td><img src="../../../mc_icon/misc/flint.png"></td>
+			<td><img src="../../../mc_icon/recipes/empty.png"></td>
+			<td colspan="2"></td>
+		</tr>
+	</tablebody>
+</table>
+<table>
+	<tablebody>
+		<tr>
+			<td><img src="../../../mc_icon/recipes/tile.png"></td>
+			<td>图标</td>
+			<td>名称</td>
+			<td>标签</td>
+			<td>数量</td>
+		</tr>
+		<tr>
+			<td><img src="../../../mc_icon/recipes/arrow.png"></td>
+			<td><img src="../../../mc_icon/misc/quartz.png"></td>
+			<td>下界石英</td>
+			<td>quartz</td>
+			<td>1</td>
+		</tr>
+		<tr>
+			<td><img src="../../../mc_icon/recipes/02.png"><img src="../../../mc_icon/recipes/04.png"><img src="../../../mc_icon/recipes/05.png"><img src="../../../mc_icon/recipes/06.png"><img src="../../../mc_icon/recipes/08.png"></td>
+			<td><img src="../../../mc_icon/misc/flint.png"></td>
+			<td>燧石</td>
+			<td>flint</td>
+			<td>5</td>
+		</tr>
+	</tablebody>
+</table>
+
+---
+<!-- flint__from__crafting_shapeless__use__quartz.md -->
+
+<!-- zh_cn -->
+
+## 燧石 | 工作台: 无序 | 下界石英
+
+<table>
+	<tablebody>
+		<tr>
+			<td colspan="5">工作台: 无序</td>
+		</tr>
+		<tr>
+			<td><img src="../../../mc_icon/misc/quartz.png"></td>
+			<td><img src="../../../mc_icon/recipes/empty.png"></td>
+			<td><img src="../../../mc_icon/recipes/empty.png"></td>
+			<td colspan="2"></td>
+		</tr>
+		<tr>
+			<td><img src="../../../mc_icon/recipes/empty.png"></td>
+			<td><img src="../../../mc_icon/recipes/empty.png"></td>
+			<td><img src="../../../mc_icon/recipes/empty.png"></td>
+			<td><img src="../../../mc_icon/recipes/arrow.png"></td>
+			<td><img src="../../../mc_icon/misc/flint.png"></td>
+		</tr>
+		<tr>
+			<td><img src="../../../mc_icon/recipes/empty.png"></td>
+			<td><img src="../../../mc_icon/recipes/empty.png"></td>
+			<td><img src="../../../mc_icon/recipes/empty.png"></td>
+			<td colspan="2"></td>
+		</tr>
+	</tablebody>
+</table>
+<table>
+	<tablebody>
+		<tr>
+			<td><img src="../../../mc_icon/recipes/tile.png"></td>
+			<td>图标</td>
+			<td>名称</td>
+			<td>标签</td>
+			<td>数量</td>
+		</tr>
+		<tr>
+			<td><img src="../../../mc_icon/recipes/arrow.png"></td>
+			<td><img src="../../../mc_icon/misc/flint.png"></td>
+			<td>燧石</td>
+			<td>flint</td>
+			<td>5</td>
+		</tr>
+		<tr>
+			<td><img src="../../../mc_icon/recipes/01.png"></td>
+			<td><img src="../../../mc_icon/misc/quartz.png"></td>
+			<td>下界石英</td>
+			<td>quartz</td>
+			<td>1</td>
+		</tr>
+	</tablebody>
+</table>
+

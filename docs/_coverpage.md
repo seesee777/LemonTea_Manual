@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](image/lemon%20tea_320.png)
+![logo](mc_icon/image/lemon%20tea_320.png)
 
 # Lemon Tea <small>0.10</small>
 
@@ -15,7 +15,7 @@
 
 <!-- 背景图片 -->
 
-<!-- ![](image/cover2.png) -->
+<!-- ![](mc_icon/image/lemon tea_320.png) -->
 
 <!-- 背景色 -->
 

@@ -1,7 +1,12 @@
-# Contents
-* [recipe](en_us/recipes/readme.md)
-* [Item Tags](en_us/tags/readme.md)
+# [Content](/en_us/README.md)
 
-![image/tea.jpg](image/tea.jpg)
+[Functions](/en_us/functions/README.md)
 
-![../image/tea.jpg](../image/tea.jpg)
+[Loot Table](/en_us/loot_table/README.md)
+
+[Recipes](/en_us/recipes/README.md)
+
+[Tags](/en_us/tags/README.md)
+
+[Tea Room](/en_us/tea_room/README.md)
+

@@ -1,0 +1,6 @@
+* [封面](/)
+* [概述](/README.md)
+* [目录](/zh_cn/README.md)
+* [实体](/zh_cn/loot_table/entities/README.md)
+  * [末影龙](/zh_cn/loot_table/entities/ender_dragon.md)
+  * [潜影贝](/zh_cn/loot_table/entities/shulker.md)

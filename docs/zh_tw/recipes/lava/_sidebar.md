@@ -1,0 +1,7 @@
+* [封面](/)
+* [概述](/README.md)
+* [目錄](/zh_tw/README.md)
+  * [烈焰粉 | 岩漿球 | 工作站](/zh_tw/recipes/lava/blaze_powder__magma_cream__workstation.md)
+  * [烈焰桿 | 烈焰粉 | 工作台：無序](/zh_tw/recipes/lava/blaze_rod__blaze_powder__crafting_shapeless.md)
+  * [岩漿塊 | 熔岩桶 | 工作臺](/zh_tw/recipes/lava/magma_block__lava_bucket__crafting.md)
+  * [岩漿球 | 岩漿塊 | 工作台：無序](/zh_tw/recipes/lava/magma_cream__magma_block__crafting_shapeless.md)

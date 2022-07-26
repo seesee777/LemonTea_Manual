@@ -1,5 +1,8 @@
-<!-- _navbar.md -->
-* [Home](/)
-* [Contents](en_us/readme.md)
-  * [Recipes](en_us/recipes/readme.md)
-  * [Item Tags](en_us/tags/readme.md)
+* [Cover](/)
+* [Summary](/README.md)
+* [Content](/en_us/README.md)
+  * [Functions](/en_us/functions/README.md)
+  * [Loot Table](/en_us/loot_table/README.md)
+  * [Recipes](/en_us/recipes/README.md)
+  * [Tags](/en_us/tags/README.md)
+  * [Tea Room](/en_us/tea_room/README.md)

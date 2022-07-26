@@ -1,0 +1,7 @@
+* [封面](/)
+* [概述](/README.md)
+* [目录](/zh_cn/README.md)
+  * [带釉陶瓦 | 带釉陶瓦 | 工作台: 有序](/zh_cn/recipes/terracotta/glazed_terracotta__tag_glazed_terracotta__crafting_shaped.md)
+  * [带釉陶瓦 | 带釉陶瓦 | 工作台: 无序](/zh_cn/recipes/terracotta/glazed_terracotta__tag_glazed_terracotta__crafting_shapeless.md)
+  * [陶瓦 | 染色陶瓦 | 工作台: 有序](/zh_cn/recipes/terracotta/terracotta__tag_colored_terracotta__crafting_shaped.md)
+  * [陶瓦 | 染色陶瓦 | 工作台: 无序](/zh_cn/recipes/terracotta/terracotta__tag_colored_terracotta__crafting_shapeless.md)

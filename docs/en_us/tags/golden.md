@@ -1,5 +1,0 @@
-golden
-
-golden
-
-golden

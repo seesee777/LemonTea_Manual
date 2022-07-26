@@ -1,0 +1,5 @@
+* [Cover](/)
+* [Summary](/README.md)
+* [Content](/en_us/README.md)
+  * [Brick | Brick | Craft Table](/en_us/recipes/clay/brick__brick__crafting.md)
+  * [Clay Ball | Any Material | Workstation](/en_us/recipes/clay/clay_ball__any_material__workstation.md)

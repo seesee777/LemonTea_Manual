@@ -1,0 +1,18 @@
+# Game Menu
+
+Product | Material | Workstation
+
+[Building Blocks](/en_us/recipes/game/buildingblocks.md)
+
+[Combat](/en_us/recipes/game/combat.md)
+
+[Decoration Blocks](/en_us/recipes/game/decorations.md)
+
+[Miscellaneous](/en_us/recipes/game/misc.md)
+
+[Redstone Dust](/en_us/recipes/game/redstone.md)
+
+[Tools](/en_us/recipes/game/tools.md)
+
+[Transportation](/en_us/recipes/game/transportation.md)
+

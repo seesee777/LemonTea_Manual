@@ -1,5 +1,0 @@
-wood
-
-wood
-
-wood
