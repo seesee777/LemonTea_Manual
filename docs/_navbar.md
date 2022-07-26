@@ -1,4 +1,4 @@
 * Language 語言
-  * [English](en_us/readme.md)
-  * [中文简体](zh_cn/readme.md)
-  * [中文繁體](zh_tw/readme.md)
+  * [English](/en_us/README.md)
+  * [中文简体](/zh_cn/README.md)
+  * [中文繁體](/zh_tw/README.md)

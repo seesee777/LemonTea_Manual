@@ -8,11 +8,11 @@ This is a Minecraft data pack that speeds up player progression in Survival Mode
 
 ### Manual 手冊
 
-[English](/en_us/)
+[English](/en_us/README.md)
 
-[中文简体](/zh_cn/)
+[中文简体](/zh_cn/README.md)
 
-[中文繁體](/zh_tw/)
+[中文繁體](/zh_tw/README.md)
 
 ### Download 下載
 
