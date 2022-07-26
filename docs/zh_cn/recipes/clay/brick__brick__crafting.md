@@ -18,6 +18,9 @@
 
 <img src="../../../../mc_icon/buildingBlocks/bricks.png">
 
+/mc_icon/buildingBlocks/bricks.png
+
+<img src="/mc_icon/buildingBlocks/bricks.png">
 
 <table>
 	<tablebody>
