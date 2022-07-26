@@ -35,3 +35,6 @@ This is a Minecraft data pack that speeds up player progression in Survival Mode
 [Twitter](https://twitter.com/openmakermap)
 
 [Email](mailto:bittoy@outlook.com)
+
+<img src="/mc_icon/buildingBlocks/bricks.png">
+<img src="../docs/mc_icon/buildingBlocks/bricks.png">
