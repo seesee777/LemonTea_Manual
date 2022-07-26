@@ -5,6 +5,20 @@
 
 ## 红砖 | 工作台: 无序 | 砖块
 
+../../mc_icon/buildingBlocks/bricks.png
+
+<img src="../../mc_icon/buildingBlocks/bricks.png">
+
+../../../mc_icon/buildingBlocks/bricks.png
+
+<img src="../../../mc_icon/buildingBlocks/bricks.png">
+
+
+../../../../mc_icon/buildingBlocks/bricks.png
+
+<img src="../../../../mc_icon/buildingBlocks/bricks.png">
+
+
 <table>
 	<tablebody>
 		<tr>
