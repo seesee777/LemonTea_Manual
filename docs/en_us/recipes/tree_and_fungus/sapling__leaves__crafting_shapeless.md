@@ -11,22 +11,22 @@
 			<td colspan="5">Crafting Table: Shapeless</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/decorations/leaves/acacia_leaves.png"></td>
-			<td><img src="../../../mc_icon/misc/stick.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/decorations/leaves/acacia_leaves.png"></td>
+			<td><img src="mc_icon/misc/stick.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
 			<td colspan="2"></td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/arrow.png"></td>
-			<td><img src="../../../mc_icon/decorations/sapling/acacia_sapling.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/arrow.png"></td>
+			<td><img src="mc_icon/decorations/sapling/acacia_sapling.png"></td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
 			<td colspan="2"></td>
 		</tr>
 	</tablebody>
@@ -34,29 +34,29 @@
 <table>
 	<tablebody>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/tile.png"></td>
+			<td><img src="mc_icon/recipes/tile.png"></td>
 			<td>ICON</td>
 			<td>NAME</td>
 			<td>ID</td>
 			<td>Count</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/arrow.png"></td>
-			<td><img src="../../../mc_icon/decorations/sapling/acacia_sapling.png"></td>
+			<td><img src="mc_icon/recipes/arrow.png"></td>
+			<td><img src="mc_icon/decorations/sapling/acacia_sapling.png"></td>
 			<td>Acacia Sapling</td>
 			<td>acacia_sapling</td>
 			<td>1</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/01.png"></td>
-			<td><img src="../../../mc_icon/decorations/leaves/acacia_leaves.png"></td>
+			<td><img src="mc_icon/recipes/01.png"></td>
+			<td><img src="mc_icon/decorations/leaves/acacia_leaves.png"></td>
 			<td>Acacia Leaves</td>
 			<td>acacia_leaves</td>
 			<td>1</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/02.png"></td>
-			<td><img src="../../../mc_icon/misc/stick.png"></td>
+			<td><img src="mc_icon/recipes/02.png"></td>
+			<td><img src="mc_icon/misc/stick.png"></td>
 			<td>Stick</td>
 			<td>stick</td>
 			<td>1</td>
@@ -77,22 +77,22 @@
 			<td colspan="5">Crafting Table: Shapeless</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/decorations/leaves/birch_leaves.png"></td>
-			<td><img src="../../../mc_icon/misc/stick.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/decorations/leaves/birch_leaves.png"></td>
+			<td><img src="mc_icon/misc/stick.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
 			<td colspan="2"></td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/arrow.png"></td>
-			<td><img src="../../../mc_icon/decorations/sapling/birch_sapling.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/arrow.png"></td>
+			<td><img src="mc_icon/decorations/sapling/birch_sapling.png"></td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
 			<td colspan="2"></td>
 		</tr>
 	</tablebody>
@@ -100,29 +100,29 @@
 <table>
 	<tablebody>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/tile.png"></td>
+			<td><img src="mc_icon/recipes/tile.png"></td>
 			<td>ICON</td>
 			<td>NAME</td>
 			<td>ID</td>
 			<td>Count</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/arrow.png"></td>
-			<td><img src="../../../mc_icon/decorations/sapling/birch_sapling.png"></td>
+			<td><img src="mc_icon/recipes/arrow.png"></td>
+			<td><img src="mc_icon/decorations/sapling/birch_sapling.png"></td>
 			<td>Birch Sapling</td>
 			<td>birch_sapling</td>
 			<td>1</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/01.png"></td>
-			<td><img src="../../../mc_icon/decorations/leaves/birch_leaves.png"></td>
+			<td><img src="mc_icon/recipes/01.png"></td>
+			<td><img src="mc_icon/decorations/leaves/birch_leaves.png"></td>
 			<td>Birch Leaves</td>
 			<td>birch_leaves</td>
 			<td>1</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/02.png"></td>
-			<td><img src="../../../mc_icon/misc/stick.png"></td>
+			<td><img src="mc_icon/recipes/02.png"></td>
+			<td><img src="mc_icon/misc/stick.png"></td>
 			<td>Stick</td>
 			<td>stick</td>
 			<td>1</td>
@@ -143,22 +143,22 @@
 			<td colspan="5">Crafting Table: Shapeless</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/decorations/leaves/dark_oak_leaves.png"></td>
-			<td><img src="../../../mc_icon/misc/stick.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/decorations/leaves/dark_oak_leaves.png"></td>
+			<td><img src="mc_icon/misc/stick.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
 			<td colspan="2"></td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/arrow.png"></td>
-			<td><img src="../../../mc_icon/decorations/sapling/dark_oak_sapling.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/arrow.png"></td>
+			<td><img src="mc_icon/decorations/sapling/dark_oak_sapling.png"></td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
 			<td colspan="2"></td>
 		</tr>
 	</tablebody>
@@ -166,29 +166,29 @@
 <table>
 	<tablebody>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/tile.png"></td>
+			<td><img src="mc_icon/recipes/tile.png"></td>
 			<td>ICON</td>
 			<td>NAME</td>
 			<td>ID</td>
 			<td>Count</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/arrow.png"></td>
-			<td><img src="../../../mc_icon/decorations/sapling/dark_oak_sapling.png"></td>
+			<td><img src="mc_icon/recipes/arrow.png"></td>
+			<td><img src="mc_icon/decorations/sapling/dark_oak_sapling.png"></td>
 			<td>Dark Oak Sapling</td>
 			<td>dark_oak_sapling</td>
 			<td>1</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/01.png"></td>
-			<td><img src="../../../mc_icon/decorations/leaves/dark_oak_leaves.png"></td>
+			<td><img src="mc_icon/recipes/01.png"></td>
+			<td><img src="mc_icon/decorations/leaves/dark_oak_leaves.png"></td>
 			<td>Dark Oak Leaves</td>
 			<td>dark_oak_leaves</td>
 			<td>1</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/02.png"></td>
-			<td><img src="../../../mc_icon/misc/stick.png"></td>
+			<td><img src="mc_icon/recipes/02.png"></td>
+			<td><img src="mc_icon/misc/stick.png"></td>
 			<td>Stick</td>
 			<td>stick</td>
 			<td>1</td>
@@ -209,22 +209,22 @@
 			<td colspan="5">Crafting Table: Shapeless</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/decorations/leaves/jungle_leaves.png"></td>
-			<td><img src="../../../mc_icon/misc/stick.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/decorations/leaves/jungle_leaves.png"></td>
+			<td><img src="mc_icon/misc/stick.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
 			<td colspan="2"></td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/arrow.png"></td>
-			<td><img src="../../../mc_icon/decorations/sapling/jungle_sapling.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/arrow.png"></td>
+			<td><img src="mc_icon/decorations/sapling/jungle_sapling.png"></td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
 			<td colspan="2"></td>
 		</tr>
 	</tablebody>
@@ -232,29 +232,29 @@
 <table>
 	<tablebody>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/tile.png"></td>
+			<td><img src="mc_icon/recipes/tile.png"></td>
 			<td>ICON</td>
 			<td>NAME</td>
 			<td>ID</td>
 			<td>Count</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/arrow.png"></td>
-			<td><img src="../../../mc_icon/decorations/sapling/jungle_sapling.png"></td>
+			<td><img src="mc_icon/recipes/arrow.png"></td>
+			<td><img src="mc_icon/decorations/sapling/jungle_sapling.png"></td>
 			<td>Jungle Sapling</td>
 			<td>jungle_sapling</td>
 			<td>1</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/01.png"></td>
-			<td><img src="../../../mc_icon/decorations/leaves/jungle_leaves.png"></td>
+			<td><img src="mc_icon/recipes/01.png"></td>
+			<td><img src="mc_icon/decorations/leaves/jungle_leaves.png"></td>
 			<td>Jungle Leaves</td>
 			<td>jungle_leaves</td>
 			<td>1</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/02.png"></td>
-			<td><img src="../../../mc_icon/misc/stick.png"></td>
+			<td><img src="mc_icon/recipes/02.png"></td>
+			<td><img src="mc_icon/misc/stick.png"></td>
 			<td>Stick</td>
 			<td>stick</td>
 			<td>1</td>
@@ -275,22 +275,22 @@
 			<td colspan="5">Crafting Table: Shapeless</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/decorations/leaves/oak_leaves.png"></td>
-			<td><img src="../../../mc_icon/misc/stick.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/decorations/leaves/oak_leaves.png"></td>
+			<td><img src="mc_icon/misc/stick.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
 			<td colspan="2"></td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/arrow.png"></td>
-			<td><img src="../../../mc_icon/decorations/sapling/oak_sapling.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/arrow.png"></td>
+			<td><img src="mc_icon/decorations/sapling/oak_sapling.png"></td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
 			<td colspan="2"></td>
 		</tr>
 	</tablebody>
@@ -298,29 +298,29 @@
 <table>
 	<tablebody>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/tile.png"></td>
+			<td><img src="mc_icon/recipes/tile.png"></td>
 			<td>ICON</td>
 			<td>NAME</td>
 			<td>ID</td>
 			<td>Count</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/arrow.png"></td>
-			<td><img src="../../../mc_icon/decorations/sapling/oak_sapling.png"></td>
+			<td><img src="mc_icon/recipes/arrow.png"></td>
+			<td><img src="mc_icon/decorations/sapling/oak_sapling.png"></td>
 			<td>Oak Sapling</td>
 			<td>oak_sapling</td>
 			<td>1</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/01.png"></td>
-			<td><img src="../../../mc_icon/decorations/leaves/oak_leaves.png"></td>
+			<td><img src="mc_icon/recipes/01.png"></td>
+			<td><img src="mc_icon/decorations/leaves/oak_leaves.png"></td>
 			<td>Oak Leaves</td>
 			<td>oak_leaves</td>
 			<td>1</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/02.png"></td>
-			<td><img src="../../../mc_icon/misc/stick.png"></td>
+			<td><img src="mc_icon/recipes/02.png"></td>
+			<td><img src="mc_icon/misc/stick.png"></td>
 			<td>Stick</td>
 			<td>stick</td>
 			<td>1</td>
@@ -341,22 +341,22 @@
 			<td colspan="5">Crafting Table: Shapeless</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/decorations/leaves/spruce_leaves.png"></td>
-			<td><img src="../../../mc_icon/misc/stick.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/decorations/leaves/spruce_leaves.png"></td>
+			<td><img src="mc_icon/misc/stick.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
 			<td colspan="2"></td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/arrow.png"></td>
-			<td><img src="../../../mc_icon/decorations/sapling/spruce_sapling.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/arrow.png"></td>
+			<td><img src="mc_icon/decorations/sapling/spruce_sapling.png"></td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
 			<td colspan="2"></td>
 		</tr>
 	</tablebody>
@@ -364,29 +364,29 @@
 <table>
 	<tablebody>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/tile.png"></td>
+			<td><img src="mc_icon/recipes/tile.png"></td>
 			<td>ICON</td>
 			<td>NAME</td>
 			<td>ID</td>
 			<td>Count</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/arrow.png"></td>
-			<td><img src="../../../mc_icon/decorations/sapling/spruce_sapling.png"></td>
+			<td><img src="mc_icon/recipes/arrow.png"></td>
+			<td><img src="mc_icon/decorations/sapling/spruce_sapling.png"></td>
 			<td>Spruce Sapling</td>
 			<td>spruce_sapling</td>
 			<td>1</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/01.png"></td>
-			<td><img src="../../../mc_icon/decorations/leaves/spruce_leaves.png"></td>
+			<td><img src="mc_icon/recipes/01.png"></td>
+			<td><img src="mc_icon/decorations/leaves/spruce_leaves.png"></td>
 			<td>Spruce Leaves</td>
 			<td>spruce_leaves</td>
 			<td>1</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/02.png"></td>
-			<td><img src="../../../mc_icon/misc/stick.png"></td>
+			<td><img src="mc_icon/recipes/02.png"></td>
+			<td><img src="mc_icon/misc/stick.png"></td>
 			<td>Stick</td>
 			<td>stick</td>
 			<td>1</td>
@@ -407,22 +407,22 @@
 			<td colspan="5">Crafting Table: Shapeless</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/decorations/crimson_fungus.png"></td>
-			<td><img src="../../../mc_icon/misc/bone_meal.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/decorations/crimson_fungus.png"></td>
+			<td><img src="mc_icon/misc/bone_meal.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
 			<td colspan="2"></td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/arrow.png"></td>
-			<td><img src="../../../mc_icon/buildingBlocks/crimson_stem.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/arrow.png"></td>
+			<td><img src="mc_icon/buildingBlocks/crimson_stem.png"></td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
 			<td colspan="2"></td>
 		</tr>
 	</tablebody>
@@ -430,29 +430,29 @@
 <table>
 	<tablebody>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/tile.png"></td>
+			<td><img src="mc_icon/recipes/tile.png"></td>
 			<td>ICON</td>
 			<td>NAME</td>
 			<td>ID</td>
 			<td>Count</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/arrow.png"></td>
-			<td><img src="../../../mc_icon/buildingBlocks/crimson_stem.png"></td>
+			<td><img src="mc_icon/recipes/arrow.png"></td>
+			<td><img src="mc_icon/buildingBlocks/crimson_stem.png"></td>
 			<td>Crimson Stem</td>
 			<td>crimson_stem</td>
 			<td>64</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/01.png"></td>
-			<td><img src="../../../mc_icon/decorations/crimson_fungus.png"></td>
+			<td><img src="mc_icon/recipes/01.png"></td>
+			<td><img src="mc_icon/decorations/crimson_fungus.png"></td>
 			<td>Crimson Fungus</td>
 			<td>crimson_fungus</td>
 			<td>1</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/02.png"></td>
-			<td><img src="../../../mc_icon/misc/bone_meal.png"></td>
+			<td><img src="mc_icon/recipes/02.png"></td>
+			<td><img src="mc_icon/misc/bone_meal.png"></td>
 			<td>Bone Meal</td>
 			<td>bone_meal</td>
 			<td>1</td>
@@ -473,22 +473,22 @@
 			<td colspan="5">Crafting Table: Shapeless</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/decorations/warped_fungus.png"></td>
-			<td><img src="../../../mc_icon/misc/bone_meal.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/decorations/warped_fungus.png"></td>
+			<td><img src="mc_icon/misc/bone_meal.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
 			<td colspan="2"></td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/arrow.png"></td>
-			<td><img src="../../../mc_icon/buildingBlocks/warped_stem.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/arrow.png"></td>
+			<td><img src="mc_icon/buildingBlocks/warped_stem.png"></td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
 			<td colspan="2"></td>
 		</tr>
 	</tablebody>
@@ -496,29 +496,29 @@
 <table>
 	<tablebody>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/tile.png"></td>
+			<td><img src="mc_icon/recipes/tile.png"></td>
 			<td>ICON</td>
 			<td>NAME</td>
 			<td>ID</td>
 			<td>Count</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/arrow.png"></td>
-			<td><img src="../../../mc_icon/buildingBlocks/warped_stem.png"></td>
+			<td><img src="mc_icon/recipes/arrow.png"></td>
+			<td><img src="mc_icon/buildingBlocks/warped_stem.png"></td>
 			<td>Warped Stem</td>
 			<td>warped_stem</td>
 			<td>64</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/01.png"></td>
-			<td><img src="../../../mc_icon/decorations/warped_fungus.png"></td>
+			<td><img src="mc_icon/recipes/01.png"></td>
+			<td><img src="mc_icon/decorations/warped_fungus.png"></td>
 			<td>Warped Fungus</td>
 			<td>warped_fungus</td>
 			<td>1</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/02.png"></td>
-			<td><img src="../../../mc_icon/misc/bone_meal.png"></td>
+			<td><img src="mc_icon/recipes/02.png"></td>
+			<td><img src="mc_icon/misc/bone_meal.png"></td>
 			<td>Bone Meal</td>
 			<td>bone_meal</td>
 			<td>1</td>

@@ -13,9 +13,9 @@
 			<td>经验</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/buildingBlocks/gilded_blackstone.png"></td>
-			<td><img src="../../../mc_icon/recipes/arrow.png"></td>
-			<td><img src="../../../mc_icon/misc/gold_ingot.png"></td>
+			<td><img src="mc_icon/buildingBlocks/gilded_blackstone.png"></td>
+			<td><img src="mc_icon/recipes/arrow.png"></td>
+			<td><img src="mc_icon/misc/gold_ingot.png"></td>
 			<td>100</td>
 			<td>10</td>
 		</tr>
@@ -24,22 +24,22 @@
 <table>
 	<tablebody>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/tile.png"></td>
+			<td><img src="mc_icon/recipes/tile.png"></td>
 			<td>图标</td>
 			<td>名称</td>
 			<td>标签</td>
 			<td>数量</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/single.png"></td>
-			<td><img src="../../../mc_icon/buildingBlocks/gilded_blackstone.png"></td>
+			<td><img src="mc_icon/recipes/single.png"></td>
+			<td><img src="mc_icon/buildingBlocks/gilded_blackstone.png"></td>
 			<td>镶金黑石</td>
 			<td>gilded_blackstone</td>
 			<td>1</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/arrow.png"></td>
-			<td><img src="../../../mc_icon/misc/gold_ingot.png"></td>
+			<td><img src="mc_icon/recipes/arrow.png"></td>
+			<td><img src="mc_icon/misc/gold_ingot.png"></td>
 			<td>金锭</td>
 			<td>gold_ingot</td>
 			<td>1</td>

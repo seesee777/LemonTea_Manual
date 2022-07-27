@@ -11,22 +11,22 @@
 			<td colspan="5">Crafting Table: Shapeless</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/buildingBlocks/concrete/black_concrete.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/buildingBlocks/concrete/black_concrete.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
 			<td colspan="2"></td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/arrow.png"></td>
-			<td><img src="../../../mc_icon/buildingBlocks/concrete_powder/black_concrete_powder.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/arrow.png"></td>
+			<td><img src="mc_icon/buildingBlocks/concrete_powder/black_concrete_powder.png"></td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
 			<td colspan="2"></td>
 		</tr>
 	</tablebody>
@@ -34,22 +34,22 @@
 <table>
 	<tablebody>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/tile.png"></td>
+			<td><img src="mc_icon/recipes/tile.png"></td>
 			<td>ICON</td>
 			<td>NAME</td>
 			<td>ID</td>
 			<td>Count</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/arrow.png"></td>
-			<td><img src="../../../mc_icon/buildingBlocks/concrete_powder/black_concrete_powder.png"></td>
+			<td><img src="mc_icon/recipes/arrow.png"></td>
+			<td><img src="mc_icon/buildingBlocks/concrete_powder/black_concrete_powder.png"></td>
 			<td>Black Concrete Powder</td>
 			<td>black_concrete_powder</td>
 			<td>1</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/01.png"></td>
-			<td><img src="../../../mc_icon/buildingBlocks/concrete/black_concrete.png"></td>
+			<td><img src="mc_icon/recipes/01.png"></td>
+			<td><img src="mc_icon/buildingBlocks/concrete/black_concrete.png"></td>
 			<td>Black Concrete</td>
 			<td>black_concrete</td>
 			<td>1</td>
@@ -70,22 +70,22 @@
 			<td colspan="5">Crafting Table: Shapeless</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/buildingBlocks/concrete/blue_concrete.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/buildingBlocks/concrete/blue_concrete.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
 			<td colspan="2"></td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/arrow.png"></td>
-			<td><img src="../../../mc_icon/buildingBlocks/concrete_powder/blue_concrete_powder.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/arrow.png"></td>
+			<td><img src="mc_icon/buildingBlocks/concrete_powder/blue_concrete_powder.png"></td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
 			<td colspan="2"></td>
 		</tr>
 	</tablebody>
@@ -93,22 +93,22 @@
 <table>
 	<tablebody>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/tile.png"></td>
+			<td><img src="mc_icon/recipes/tile.png"></td>
 			<td>ICON</td>
 			<td>NAME</td>
 			<td>ID</td>
 			<td>Count</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/arrow.png"></td>
-			<td><img src="../../../mc_icon/buildingBlocks/concrete_powder/blue_concrete_powder.png"></td>
+			<td><img src="mc_icon/recipes/arrow.png"></td>
+			<td><img src="mc_icon/buildingBlocks/concrete_powder/blue_concrete_powder.png"></td>
 			<td>Blue Concrete Powder</td>
 			<td>blue_concrete_powder</td>
 			<td>1</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/01.png"></td>
-			<td><img src="../../../mc_icon/buildingBlocks/concrete/blue_concrete.png"></td>
+			<td><img src="mc_icon/recipes/01.png"></td>
+			<td><img src="mc_icon/buildingBlocks/concrete/blue_concrete.png"></td>
 			<td>Blue Concrete</td>
 			<td>blue_concrete</td>
 			<td>1</td>
@@ -129,22 +129,22 @@
 			<td colspan="5">Crafting Table: Shapeless</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/buildingBlocks/concrete/brown_concrete.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/buildingBlocks/concrete/brown_concrete.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
 			<td colspan="2"></td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/arrow.png"></td>
-			<td><img src="../../../mc_icon/buildingBlocks/concrete_powder/brown_concrete_powder.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/arrow.png"></td>
+			<td><img src="mc_icon/buildingBlocks/concrete_powder/brown_concrete_powder.png"></td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
 			<td colspan="2"></td>
 		</tr>
 	</tablebody>
@@ -152,22 +152,22 @@
 <table>
 	<tablebody>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/tile.png"></td>
+			<td><img src="mc_icon/recipes/tile.png"></td>
 			<td>ICON</td>
 			<td>NAME</td>
 			<td>ID</td>
 			<td>Count</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/arrow.png"></td>
-			<td><img src="../../../mc_icon/buildingBlocks/concrete_powder/brown_concrete_powder.png"></td>
+			<td><img src="mc_icon/recipes/arrow.png"></td>
+			<td><img src="mc_icon/buildingBlocks/concrete_powder/brown_concrete_powder.png"></td>
 			<td>Brown Concrete Powder</td>
 			<td>brown_concrete_powder</td>
 			<td>1</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/01.png"></td>
-			<td><img src="../../../mc_icon/buildingBlocks/concrete/brown_concrete.png"></td>
+			<td><img src="mc_icon/recipes/01.png"></td>
+			<td><img src="mc_icon/buildingBlocks/concrete/brown_concrete.png"></td>
 			<td>Brown Concrete</td>
 			<td>brown_concrete</td>
 			<td>1</td>
@@ -188,22 +188,22 @@
 			<td colspan="5">Crafting Table: Shapeless</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/buildingBlocks/concrete/cyan_concrete.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/buildingBlocks/concrete/cyan_concrete.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
 			<td colspan="2"></td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/arrow.png"></td>
-			<td><img src="../../../mc_icon/buildingBlocks/concrete_powder/cyan_concrete_powder.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/arrow.png"></td>
+			<td><img src="mc_icon/buildingBlocks/concrete_powder/cyan_concrete_powder.png"></td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
 			<td colspan="2"></td>
 		</tr>
 	</tablebody>
@@ -211,22 +211,22 @@
 <table>
 	<tablebody>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/tile.png"></td>
+			<td><img src="mc_icon/recipes/tile.png"></td>
 			<td>ICON</td>
 			<td>NAME</td>
 			<td>ID</td>
 			<td>Count</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/arrow.png"></td>
-			<td><img src="../../../mc_icon/buildingBlocks/concrete_powder/cyan_concrete_powder.png"></td>
+			<td><img src="mc_icon/recipes/arrow.png"></td>
+			<td><img src="mc_icon/buildingBlocks/concrete_powder/cyan_concrete_powder.png"></td>
 			<td>Cyan Concrete Powder</td>
 			<td>cyan_concrete_powder</td>
 			<td>1</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/01.png"></td>
-			<td><img src="../../../mc_icon/buildingBlocks/concrete/cyan_concrete.png"></td>
+			<td><img src="mc_icon/recipes/01.png"></td>
+			<td><img src="mc_icon/buildingBlocks/concrete/cyan_concrete.png"></td>
 			<td>Cyan Concrete</td>
 			<td>cyan_concrete</td>
 			<td>1</td>
@@ -247,22 +247,22 @@
 			<td colspan="5">Crafting Table: Shapeless</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/buildingBlocks/concrete/gray_concrete.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/buildingBlocks/concrete/gray_concrete.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
 			<td colspan="2"></td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/arrow.png"></td>
-			<td><img src="../../../mc_icon/buildingBlocks/concrete_powder/gray_concrete_powder.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/arrow.png"></td>
+			<td><img src="mc_icon/buildingBlocks/concrete_powder/gray_concrete_powder.png"></td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
 			<td colspan="2"></td>
 		</tr>
 	</tablebody>
@@ -270,22 +270,22 @@
 <table>
 	<tablebody>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/tile.png"></td>
+			<td><img src="mc_icon/recipes/tile.png"></td>
 			<td>ICON</td>
 			<td>NAME</td>
 			<td>ID</td>
 			<td>Count</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/arrow.png"></td>
-			<td><img src="../../../mc_icon/buildingBlocks/concrete_powder/gray_concrete_powder.png"></td>
+			<td><img src="mc_icon/recipes/arrow.png"></td>
+			<td><img src="mc_icon/buildingBlocks/concrete_powder/gray_concrete_powder.png"></td>
 			<td>Gray Concrete Powder</td>
 			<td>gray_concrete_powder</td>
 			<td>1</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/01.png"></td>
-			<td><img src="../../../mc_icon/buildingBlocks/concrete/gray_concrete.png"></td>
+			<td><img src="mc_icon/recipes/01.png"></td>
+			<td><img src="mc_icon/buildingBlocks/concrete/gray_concrete.png"></td>
 			<td>Gray Concrete</td>
 			<td>gray_concrete</td>
 			<td>1</td>
@@ -306,22 +306,22 @@
 			<td colspan="5">Crafting Table: Shapeless</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/buildingBlocks/concrete/green_concrete.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/buildingBlocks/concrete/green_concrete.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
 			<td colspan="2"></td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/arrow.png"></td>
-			<td><img src="../../../mc_icon/buildingBlocks/concrete_powder/green_concrete_powder.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/arrow.png"></td>
+			<td><img src="mc_icon/buildingBlocks/concrete_powder/green_concrete_powder.png"></td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
 			<td colspan="2"></td>
 		</tr>
 	</tablebody>
@@ -329,22 +329,22 @@
 <table>
 	<tablebody>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/tile.png"></td>
+			<td><img src="mc_icon/recipes/tile.png"></td>
 			<td>ICON</td>
 			<td>NAME</td>
 			<td>ID</td>
 			<td>Count</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/arrow.png"></td>
-			<td><img src="../../../mc_icon/buildingBlocks/concrete_powder/green_concrete_powder.png"></td>
+			<td><img src="mc_icon/recipes/arrow.png"></td>
+			<td><img src="mc_icon/buildingBlocks/concrete_powder/green_concrete_powder.png"></td>
 			<td>Green Concrete Powder</td>
 			<td>green_concrete_powder</td>
 			<td>1</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/01.png"></td>
-			<td><img src="../../../mc_icon/buildingBlocks/concrete/green_concrete.png"></td>
+			<td><img src="mc_icon/recipes/01.png"></td>
+			<td><img src="mc_icon/buildingBlocks/concrete/green_concrete.png"></td>
 			<td>Green Concrete</td>
 			<td>green_concrete</td>
 			<td>1</td>
@@ -365,22 +365,22 @@
 			<td colspan="5">Crafting Table: Shapeless</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/buildingBlocks/concrete/light_blue_concrete.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/buildingBlocks/concrete/light_blue_concrete.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
 			<td colspan="2"></td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/arrow.png"></td>
-			<td><img src="../../../mc_icon/buildingBlocks/concrete_powder/light_blue_concrete_powder.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/arrow.png"></td>
+			<td><img src="mc_icon/buildingBlocks/concrete_powder/light_blue_concrete_powder.png"></td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
 			<td colspan="2"></td>
 		</tr>
 	</tablebody>
@@ -388,22 +388,22 @@
 <table>
 	<tablebody>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/tile.png"></td>
+			<td><img src="mc_icon/recipes/tile.png"></td>
 			<td>ICON</td>
 			<td>NAME</td>
 			<td>ID</td>
 			<td>Count</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/arrow.png"></td>
-			<td><img src="../../../mc_icon/buildingBlocks/concrete_powder/light_blue_concrete_powder.png"></td>
+			<td><img src="mc_icon/recipes/arrow.png"></td>
+			<td><img src="mc_icon/buildingBlocks/concrete_powder/light_blue_concrete_powder.png"></td>
 			<td>Light Blue Concrete Powder</td>
 			<td>light_blue_concrete_powder</td>
 			<td>1</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/01.png"></td>
-			<td><img src="../../../mc_icon/buildingBlocks/concrete/light_blue_concrete.png"></td>
+			<td><img src="mc_icon/recipes/01.png"></td>
+			<td><img src="mc_icon/buildingBlocks/concrete/light_blue_concrete.png"></td>
 			<td>Light Blue Concrete</td>
 			<td>light_blue_concrete</td>
 			<td>1</td>
@@ -424,22 +424,22 @@
 			<td colspan="5">Crafting Table: Shapeless</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/buildingBlocks/concrete/light_gray_concrete.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/buildingBlocks/concrete/light_gray_concrete.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
 			<td colspan="2"></td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/arrow.png"></td>
-			<td><img src="../../../mc_icon/buildingBlocks/concrete_powder/light_gray_concrete_powder.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/arrow.png"></td>
+			<td><img src="mc_icon/buildingBlocks/concrete_powder/light_gray_concrete_powder.png"></td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
 			<td colspan="2"></td>
 		</tr>
 	</tablebody>
@@ -447,22 +447,22 @@
 <table>
 	<tablebody>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/tile.png"></td>
+			<td><img src="mc_icon/recipes/tile.png"></td>
 			<td>ICON</td>
 			<td>NAME</td>
 			<td>ID</td>
 			<td>Count</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/arrow.png"></td>
-			<td><img src="../../../mc_icon/buildingBlocks/concrete_powder/light_gray_concrete_powder.png"></td>
+			<td><img src="mc_icon/recipes/arrow.png"></td>
+			<td><img src="mc_icon/buildingBlocks/concrete_powder/light_gray_concrete_powder.png"></td>
 			<td>Light Gray Concrete Powder</td>
 			<td>light_gray_concrete_powder</td>
 			<td>1</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/01.png"></td>
-			<td><img src="../../../mc_icon/buildingBlocks/concrete/light_gray_concrete.png"></td>
+			<td><img src="mc_icon/recipes/01.png"></td>
+			<td><img src="mc_icon/buildingBlocks/concrete/light_gray_concrete.png"></td>
 			<td>Light Gray Concrete</td>
 			<td>light_gray_concrete</td>
 			<td>1</td>
@@ -483,22 +483,22 @@
 			<td colspan="5">Crafting Table: Shapeless</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/buildingBlocks/concrete/lime_concrete.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/buildingBlocks/concrete/lime_concrete.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
 			<td colspan="2"></td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/arrow.png"></td>
-			<td><img src="../../../mc_icon/buildingBlocks/concrete_powder/lime_concrete_powder.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/arrow.png"></td>
+			<td><img src="mc_icon/buildingBlocks/concrete_powder/lime_concrete_powder.png"></td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
 			<td colspan="2"></td>
 		</tr>
 	</tablebody>
@@ -506,22 +506,22 @@
 <table>
 	<tablebody>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/tile.png"></td>
+			<td><img src="mc_icon/recipes/tile.png"></td>
 			<td>ICON</td>
 			<td>NAME</td>
 			<td>ID</td>
 			<td>Count</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/arrow.png"></td>
-			<td><img src="../../../mc_icon/buildingBlocks/concrete_powder/lime_concrete_powder.png"></td>
+			<td><img src="mc_icon/recipes/arrow.png"></td>
+			<td><img src="mc_icon/buildingBlocks/concrete_powder/lime_concrete_powder.png"></td>
 			<td>Lime Concrete Powder</td>
 			<td>lime_concrete_powder</td>
 			<td>1</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/01.png"></td>
-			<td><img src="../../../mc_icon/buildingBlocks/concrete/lime_concrete.png"></td>
+			<td><img src="mc_icon/recipes/01.png"></td>
+			<td><img src="mc_icon/buildingBlocks/concrete/lime_concrete.png"></td>
 			<td>Lime Concrete</td>
 			<td>lime_concrete</td>
 			<td>1</td>
@@ -542,22 +542,22 @@
 			<td colspan="5">Crafting Table: Shapeless</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/buildingBlocks/concrete/magenta_concrete.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/buildingBlocks/concrete/magenta_concrete.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
 			<td colspan="2"></td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/arrow.png"></td>
-			<td><img src="../../../mc_icon/buildingBlocks/concrete_powder/magenta_concrete_powder.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/arrow.png"></td>
+			<td><img src="mc_icon/buildingBlocks/concrete_powder/magenta_concrete_powder.png"></td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
 			<td colspan="2"></td>
 		</tr>
 	</tablebody>
@@ -565,22 +565,22 @@
 <table>
 	<tablebody>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/tile.png"></td>
+			<td><img src="mc_icon/recipes/tile.png"></td>
 			<td>ICON</td>
 			<td>NAME</td>
 			<td>ID</td>
 			<td>Count</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/arrow.png"></td>
-			<td><img src="../../../mc_icon/buildingBlocks/concrete_powder/magenta_concrete_powder.png"></td>
+			<td><img src="mc_icon/recipes/arrow.png"></td>
+			<td><img src="mc_icon/buildingBlocks/concrete_powder/magenta_concrete_powder.png"></td>
 			<td>Magenta Concrete Powder</td>
 			<td>magenta_concrete_powder</td>
 			<td>1</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/01.png"></td>
-			<td><img src="../../../mc_icon/buildingBlocks/concrete/magenta_concrete.png"></td>
+			<td><img src="mc_icon/recipes/01.png"></td>
+			<td><img src="mc_icon/buildingBlocks/concrete/magenta_concrete.png"></td>
 			<td>Magenta Concrete</td>
 			<td>magenta_concrete</td>
 			<td>1</td>
@@ -601,22 +601,22 @@
 			<td colspan="5">Crafting Table: Shapeless</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/buildingBlocks/concrete/orange_concrete.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/buildingBlocks/concrete/orange_concrete.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
 			<td colspan="2"></td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/arrow.png"></td>
-			<td><img src="../../../mc_icon/buildingBlocks/concrete_powder/orange_concrete_powder.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/arrow.png"></td>
+			<td><img src="mc_icon/buildingBlocks/concrete_powder/orange_concrete_powder.png"></td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
 			<td colspan="2"></td>
 		</tr>
 	</tablebody>
@@ -624,22 +624,22 @@
 <table>
 	<tablebody>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/tile.png"></td>
+			<td><img src="mc_icon/recipes/tile.png"></td>
 			<td>ICON</td>
 			<td>NAME</td>
 			<td>ID</td>
 			<td>Count</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/arrow.png"></td>
-			<td><img src="../../../mc_icon/buildingBlocks/concrete_powder/orange_concrete_powder.png"></td>
+			<td><img src="mc_icon/recipes/arrow.png"></td>
+			<td><img src="mc_icon/buildingBlocks/concrete_powder/orange_concrete_powder.png"></td>
 			<td>Orange Concrete Powder</td>
 			<td>orange_concrete_powder</td>
 			<td>1</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/01.png"></td>
-			<td><img src="../../../mc_icon/buildingBlocks/concrete/orange_concrete.png"></td>
+			<td><img src="mc_icon/recipes/01.png"></td>
+			<td><img src="mc_icon/buildingBlocks/concrete/orange_concrete.png"></td>
 			<td>Orange Concrete</td>
 			<td>orange_concrete</td>
 			<td>1</td>
@@ -660,22 +660,22 @@
 			<td colspan="5">Crafting Table: Shapeless</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/buildingBlocks/concrete/pink_concrete.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/buildingBlocks/concrete/pink_concrete.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
 			<td colspan="2"></td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/arrow.png"></td>
-			<td><img src="../../../mc_icon/buildingBlocks/concrete_powder/pink_concrete_powder.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/arrow.png"></td>
+			<td><img src="mc_icon/buildingBlocks/concrete_powder/pink_concrete_powder.png"></td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
 			<td colspan="2"></td>
 		</tr>
 	</tablebody>
@@ -683,22 +683,22 @@
 <table>
 	<tablebody>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/tile.png"></td>
+			<td><img src="mc_icon/recipes/tile.png"></td>
 			<td>ICON</td>
 			<td>NAME</td>
 			<td>ID</td>
 			<td>Count</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/arrow.png"></td>
-			<td><img src="../../../mc_icon/buildingBlocks/concrete_powder/pink_concrete_powder.png"></td>
+			<td><img src="mc_icon/recipes/arrow.png"></td>
+			<td><img src="mc_icon/buildingBlocks/concrete_powder/pink_concrete_powder.png"></td>
 			<td>Pink Concrete Powder</td>
 			<td>pink_concrete_powder</td>
 			<td>1</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/01.png"></td>
-			<td><img src="../../../mc_icon/buildingBlocks/concrete/pink_concrete.png"></td>
+			<td><img src="mc_icon/recipes/01.png"></td>
+			<td><img src="mc_icon/buildingBlocks/concrete/pink_concrete.png"></td>
 			<td>Pink Concrete</td>
 			<td>pink_concrete</td>
 			<td>1</td>
@@ -719,22 +719,22 @@
 			<td colspan="5">Crafting Table: Shapeless</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/buildingBlocks/concrete/purple_concrete.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/buildingBlocks/concrete/purple_concrete.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
 			<td colspan="2"></td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/arrow.png"></td>
-			<td><img src="../../../mc_icon/buildingBlocks/concrete_powder/purple_concrete_powder.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/arrow.png"></td>
+			<td><img src="mc_icon/buildingBlocks/concrete_powder/purple_concrete_powder.png"></td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
 			<td colspan="2"></td>
 		</tr>
 	</tablebody>
@@ -742,22 +742,22 @@
 <table>
 	<tablebody>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/tile.png"></td>
+			<td><img src="mc_icon/recipes/tile.png"></td>
 			<td>ICON</td>
 			<td>NAME</td>
 			<td>ID</td>
 			<td>Count</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/arrow.png"></td>
-			<td><img src="../../../mc_icon/buildingBlocks/concrete_powder/purple_concrete_powder.png"></td>
+			<td><img src="mc_icon/recipes/arrow.png"></td>
+			<td><img src="mc_icon/buildingBlocks/concrete_powder/purple_concrete_powder.png"></td>
 			<td>Purple Concrete Powder</td>
 			<td>purple_concrete_powder</td>
 			<td>1</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/01.png"></td>
-			<td><img src="../../../mc_icon/buildingBlocks/concrete/purple_concrete.png"></td>
+			<td><img src="mc_icon/recipes/01.png"></td>
+			<td><img src="mc_icon/buildingBlocks/concrete/purple_concrete.png"></td>
 			<td>Purple Concrete</td>
 			<td>purple_concrete</td>
 			<td>1</td>
@@ -778,22 +778,22 @@
 			<td colspan="5">Crafting Table: Shapeless</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/buildingBlocks/concrete/red_concrete.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/buildingBlocks/concrete/red_concrete.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
 			<td colspan="2"></td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/arrow.png"></td>
-			<td><img src="../../../mc_icon/buildingBlocks/concrete_powder/red_concrete_powder.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/arrow.png"></td>
+			<td><img src="mc_icon/buildingBlocks/concrete_powder/red_concrete_powder.png"></td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
 			<td colspan="2"></td>
 		</tr>
 	</tablebody>
@@ -801,22 +801,22 @@
 <table>
 	<tablebody>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/tile.png"></td>
+			<td><img src="mc_icon/recipes/tile.png"></td>
 			<td>ICON</td>
 			<td>NAME</td>
 			<td>ID</td>
 			<td>Count</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/arrow.png"></td>
-			<td><img src="../../../mc_icon/buildingBlocks/concrete_powder/red_concrete_powder.png"></td>
+			<td><img src="mc_icon/recipes/arrow.png"></td>
+			<td><img src="mc_icon/buildingBlocks/concrete_powder/red_concrete_powder.png"></td>
 			<td>Red Concrete Powder</td>
 			<td>red_concrete_powder</td>
 			<td>1</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/01.png"></td>
-			<td><img src="../../../mc_icon/buildingBlocks/concrete/red_concrete.png"></td>
+			<td><img src="mc_icon/recipes/01.png"></td>
+			<td><img src="mc_icon/buildingBlocks/concrete/red_concrete.png"></td>
 			<td>Red Concrete</td>
 			<td>red_concrete</td>
 			<td>1</td>
@@ -837,22 +837,22 @@
 			<td colspan="5">Crafting Table: Shapeless</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/buildingBlocks/concrete/white_concrete.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/buildingBlocks/concrete/white_concrete.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
 			<td colspan="2"></td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/arrow.png"></td>
-			<td><img src="../../../mc_icon/buildingBlocks/concrete_powder/white_concrete_powder.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/arrow.png"></td>
+			<td><img src="mc_icon/buildingBlocks/concrete_powder/white_concrete_powder.png"></td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
 			<td colspan="2"></td>
 		</tr>
 	</tablebody>
@@ -860,22 +860,22 @@
 <table>
 	<tablebody>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/tile.png"></td>
+			<td><img src="mc_icon/recipes/tile.png"></td>
 			<td>ICON</td>
 			<td>NAME</td>
 			<td>ID</td>
 			<td>Count</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/arrow.png"></td>
-			<td><img src="../../../mc_icon/buildingBlocks/concrete_powder/white_concrete_powder.png"></td>
+			<td><img src="mc_icon/recipes/arrow.png"></td>
+			<td><img src="mc_icon/buildingBlocks/concrete_powder/white_concrete_powder.png"></td>
 			<td>White Concrete Powder</td>
 			<td>white_concrete_powder</td>
 			<td>1</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/01.png"></td>
-			<td><img src="../../../mc_icon/buildingBlocks/concrete/white_concrete.png"></td>
+			<td><img src="mc_icon/recipes/01.png"></td>
+			<td><img src="mc_icon/buildingBlocks/concrete/white_concrete.png"></td>
 			<td>White Concrete</td>
 			<td>white_concrete</td>
 			<td>1</td>
@@ -896,22 +896,22 @@
 			<td colspan="5">Crafting Table: Shapeless</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/buildingBlocks/concrete/yellow_concrete.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/buildingBlocks/concrete/yellow_concrete.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
 			<td colspan="2"></td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/arrow.png"></td>
-			<td><img src="../../../mc_icon/buildingBlocks/concrete_powder/yellow_concrete_powder.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/arrow.png"></td>
+			<td><img src="mc_icon/buildingBlocks/concrete_powder/yellow_concrete_powder.png"></td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
 			<td colspan="2"></td>
 		</tr>
 	</tablebody>
@@ -919,22 +919,22 @@
 <table>
 	<tablebody>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/tile.png"></td>
+			<td><img src="mc_icon/recipes/tile.png"></td>
 			<td>ICON</td>
 			<td>NAME</td>
 			<td>ID</td>
 			<td>Count</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/arrow.png"></td>
-			<td><img src="../../../mc_icon/buildingBlocks/concrete_powder/yellow_concrete_powder.png"></td>
+			<td><img src="mc_icon/recipes/arrow.png"></td>
+			<td><img src="mc_icon/buildingBlocks/concrete_powder/yellow_concrete_powder.png"></td>
 			<td>Yellow Concrete Powder</td>
 			<td>yellow_concrete_powder</td>
 			<td>1</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/01.png"></td>
-			<td><img src="../../../mc_icon/buildingBlocks/concrete/yellow_concrete.png"></td>
+			<td><img src="mc_icon/recipes/01.png"></td>
+			<td><img src="mc_icon/buildingBlocks/concrete/yellow_concrete.png"></td>
 			<td>Yellow Concrete</td>
 			<td>yellow_concrete</td>
 			<td>1</td>

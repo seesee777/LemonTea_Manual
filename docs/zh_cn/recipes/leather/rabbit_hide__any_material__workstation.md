@@ -13,9 +13,9 @@
 			<td>经验</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/food/rotten_flesh.png"></td>
-			<td><img src="../../../mc_icon/recipes/arrow.png"></td>
-			<td><img src="../../../mc_icon/misc/rabbit_hide.png"></td>
+			<td><img src="mc_icon/food/rotten_flesh.png"></td>
+			<td><img src="mc_icon/recipes/arrow.png"></td>
+			<td><img src="mc_icon/misc/rabbit_hide.png"></td>
 			<td>600</td>
 			<td>1</td>
 		</tr>
@@ -24,22 +24,22 @@
 <table>
 	<tablebody>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/tile.png"></td>
+			<td><img src="mc_icon/recipes/tile.png"></td>
 			<td>图标</td>
 			<td>名称</td>
 			<td>标签</td>
 			<td>数量</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/single.png"></td>
-			<td><img src="../../../mc_icon/food/rotten_flesh.png"></td>
+			<td><img src="mc_icon/recipes/single.png"></td>
+			<td><img src="mc_icon/food/rotten_flesh.png"></td>
 			<td>腐肉</td>
 			<td>rotten_flesh</td>
 			<td>1</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/arrow.png"></td>
-			<td><img src="../../../mc_icon/misc/rabbit_hide.png"></td>
+			<td><img src="mc_icon/recipes/arrow.png"></td>
+			<td><img src="mc_icon/misc/rabbit_hide.png"></td>
 			<td>兔子皮</td>
 			<td>rabbit_hide</td>
 			<td>1</td>
@@ -62,9 +62,9 @@
 			<td>经验</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/food/rotten_flesh.png"></td>
-			<td><img src="../../../mc_icon/recipes/arrow.png"></td>
-			<td><img src="../../../mc_icon/misc/rabbit_hide.png"></td>
+			<td><img src="mc_icon/food/rotten_flesh.png"></td>
+			<td><img src="mc_icon/recipes/arrow.png"></td>
+			<td><img src="mc_icon/misc/rabbit_hide.png"></td>
 			<td>100</td>
 			<td>1</td>
 		</tr>
@@ -73,22 +73,22 @@
 <table>
 	<tablebody>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/tile.png"></td>
+			<td><img src="mc_icon/recipes/tile.png"></td>
 			<td>图标</td>
 			<td>名称</td>
 			<td>标签</td>
 			<td>数量</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/single.png"></td>
-			<td><img src="../../../mc_icon/food/rotten_flesh.png"></td>
+			<td><img src="mc_icon/recipes/single.png"></td>
+			<td><img src="mc_icon/food/rotten_flesh.png"></td>
 			<td>腐肉</td>
 			<td>rotten_flesh</td>
 			<td>1</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/arrow.png"></td>
-			<td><img src="../../../mc_icon/misc/rabbit_hide.png"></td>
+			<td><img src="mc_icon/recipes/arrow.png"></td>
+			<td><img src="mc_icon/misc/rabbit_hide.png"></td>
 			<td>兔子皮</td>
 			<td>rabbit_hide</td>
 			<td>1</td>
@@ -111,9 +111,9 @@
 			<td>经验</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/food/rotten_flesh.png"></td>
-			<td><img src="../../../mc_icon/recipes/arrow.png"></td>
-			<td><img src="../../../mc_icon/misc/leather.png"></td>
+			<td><img src="mc_icon/food/rotten_flesh.png"></td>
+			<td><img src="mc_icon/recipes/arrow.png"></td>
+			<td><img src="mc_icon/misc/leather.png"></td>
 			<td>50</td>
 			<td>1</td>
 		</tr>
@@ -122,22 +122,22 @@
 <table>
 	<tablebody>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/tile.png"></td>
+			<td><img src="mc_icon/recipes/tile.png"></td>
 			<td>图标</td>
 			<td>名称</td>
 			<td>标签</td>
 			<td>数量</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/single.png"></td>
-			<td><img src="../../../mc_icon/food/rotten_flesh.png"></td>
+			<td><img src="mc_icon/recipes/single.png"></td>
+			<td><img src="mc_icon/food/rotten_flesh.png"></td>
 			<td>腐肉</td>
 			<td>rotten_flesh</td>
 			<td>1</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/arrow.png"></td>
-			<td><img src="../../../mc_icon/misc/leather.png"></td>
+			<td><img src="mc_icon/recipes/arrow.png"></td>
+			<td><img src="mc_icon/misc/leather.png"></td>
 			<td>皮革</td>
 			<td>leather</td>
 			<td>1</td>
@@ -158,22 +158,22 @@
 			<td colspan="5">工作台: 无序</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/misc/leather.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/misc/leather.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
 			<td colspan="2"></td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/arrow.png"></td>
-			<td><img src="../../../mc_icon/misc/rabbit_hide.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/arrow.png"></td>
+			<td><img src="mc_icon/misc/rabbit_hide.png"></td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
-			<td><img src="../../../mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
 			<td colspan="2"></td>
 		</tr>
 	</tablebody>
@@ -181,22 +181,22 @@
 <table>
 	<tablebody>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/tile.png"></td>
+			<td><img src="mc_icon/recipes/tile.png"></td>
 			<td>图标</td>
 			<td>名称</td>
 			<td>标签</td>
 			<td>数量</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/arrow.png"></td>
-			<td><img src="../../../mc_icon/misc/rabbit_hide.png"></td>
+			<td><img src="mc_icon/recipes/arrow.png"></td>
+			<td><img src="mc_icon/misc/rabbit_hide.png"></td>
 			<td>兔子皮</td>
 			<td>rabbit_hide</td>
 			<td>4</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/01.png"></td>
-			<td><img src="../../../mc_icon/misc/leather.png"></td>
+			<td><img src="mc_icon/recipes/01.png"></td>
+			<td><img src="mc_icon/misc/leather.png"></td>
 			<td>皮革</td>
 			<td>leather</td>
 			<td>1</td>

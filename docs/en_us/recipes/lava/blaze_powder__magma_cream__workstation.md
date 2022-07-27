@@ -13,9 +13,9 @@
 			<td>Experience</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/brewing/magma_cream.png"></td>
-			<td><img src="../../../mc_icon/recipes/arrow.png"></td>
-			<td><img src="../../../mc_icon/brewing/blaze_powder.png"></td>
+			<td><img src="mc_icon/brewing/magma_cream.png"></td>
+			<td><img src="mc_icon/recipes/arrow.png"></td>
+			<td><img src="mc_icon/brewing/blaze_powder.png"></td>
 			<td>50</td>
 			<td>1</td>
 		</tr>
@@ -24,22 +24,22 @@
 <table>
 	<tablebody>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/tile.png"></td>
+			<td><img src="mc_icon/recipes/tile.png"></td>
 			<td>ICON</td>
 			<td>NAME</td>
 			<td>ID</td>
 			<td>Count</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/single.png"></td>
-			<td><img src="../../../mc_icon/brewing/magma_cream.png"></td>
+			<td><img src="mc_icon/recipes/single.png"></td>
+			<td><img src="mc_icon/brewing/magma_cream.png"></td>
 			<td>Magma Cream</td>
 			<td>magma_cream</td>
 			<td>1</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/arrow.png"></td>
-			<td><img src="../../../mc_icon/brewing/blaze_powder.png"></td>
+			<td><img src="mc_icon/recipes/arrow.png"></td>
+			<td><img src="mc_icon/brewing/blaze_powder.png"></td>
 			<td>Blaze Powder</td>
 			<td>blaze_powder</td>
 			<td>1</td>
@@ -62,9 +62,9 @@
 			<td>Experience</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/brewing/magma_cream.png"></td>
-			<td><img src="../../../mc_icon/recipes/arrow.png"></td>
-			<td><img src="../../../mc_icon/brewing/blaze_powder.png"></td>
+			<td><img src="mc_icon/brewing/magma_cream.png"></td>
+			<td><img src="mc_icon/recipes/arrow.png"></td>
+			<td><img src="mc_icon/brewing/blaze_powder.png"></td>
 			<td>100</td>
 			<td>1</td>
 		</tr>
@@ -73,22 +73,22 @@
 <table>
 	<tablebody>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/tile.png"></td>
+			<td><img src="mc_icon/recipes/tile.png"></td>
 			<td>ICON</td>
 			<td>NAME</td>
 			<td>ID</td>
 			<td>Count</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/single.png"></td>
-			<td><img src="../../../mc_icon/brewing/magma_cream.png"></td>
+			<td><img src="mc_icon/recipes/single.png"></td>
+			<td><img src="mc_icon/brewing/magma_cream.png"></td>
 			<td>Magma Cream</td>
 			<td>magma_cream</td>
 			<td>1</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/arrow.png"></td>
-			<td><img src="../../../mc_icon/brewing/blaze_powder.png"></td>
+			<td><img src="mc_icon/recipes/arrow.png"></td>
+			<td><img src="mc_icon/brewing/blaze_powder.png"></td>
 			<td>Blaze Powder</td>
 			<td>blaze_powder</td>
 			<td>1</td>

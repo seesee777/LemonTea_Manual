@@ -6,27 +6,27 @@
 			<td>ID</td>
 		</tr>
 		<tr>
-			<td><img src="../../mc_icon/combat/iron_boots.png"></td>
+			<td><img src="mc_icon/combat/iron_boots.png"></td>
 			<td>Iron Boots</td>
 			<td>iron_boots</td>
 		</tr>
 		<tr>
-			<td><img src="../../mc_icon/combat/iron_chestplate.png"></td>
+			<td><img src="mc_icon/combat/iron_chestplate.png"></td>
 			<td>Iron Chestplate</td>
 			<td>iron_chestplate</td>
 		</tr>
 		<tr>
-			<td><img src="../../mc_icon/combat/iron_helmet.png"></td>
+			<td><img src="mc_icon/combat/iron_helmet.png"></td>
 			<td>Iron Helmet</td>
 			<td>iron_helmet</td>
 		</tr>
 		<tr>
-			<td><img src="../../mc_icon/combat/iron_leggings.png"></td>
+			<td><img src="mc_icon/combat/iron_leggings.png"></td>
 			<td>Iron Leggings</td>
 			<td>iron_leggings</td>
 		</tr>
 		<tr>
-			<td><img src="../../mc_icon/misc/horse_armor/iron_horse_armor.png"></td>
+			<td><img src="mc_icon/misc/horse_armor/iron_horse_armor.png"></td>
 			<td>Iron Horse Armor</td>
 			<td>iron_horse_armor</td>
 		</tr>

@@ -6,22 +6,22 @@
 			<td>標簽</td>
 		</tr>
 		<tr>
-			<td><img src="../../mc_icon/combat/chainmail_boots.png"></td>
+			<td><img src="mc_icon/combat/chainmail_boots.png"></td>
 			<td>鎖鏈靴子</td>
 			<td>chainmail_boots</td>
 		</tr>
 		<tr>
-			<td><img src="../../mc_icon/combat/chainmail_chestplate.png"></td>
+			<td><img src="mc_icon/combat/chainmail_chestplate.png"></td>
 			<td>鎖鏈胸甲</td>
 			<td>chainmail_chestplate</td>
 		</tr>
 		<tr>
-			<td><img src="../../mc_icon/combat/chainmail_helmet.png"></td>
+			<td><img src="mc_icon/combat/chainmail_helmet.png"></td>
 			<td>鎖鏈頭盔</td>
 			<td>chainmail_helmet</td>
 		</tr>
 		<tr>
-			<td><img src="../../mc_icon/combat/chainmail_leggings.png"></td>
+			<td><img src="mc_icon/combat/chainmail_leggings.png"></td>
 			<td>鎖鏈護腿</td>
 			<td>chainmail_leggings</td>
 		</tr>

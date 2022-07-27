@@ -11,22 +11,22 @@
 			<td colspan="5">工作台: 有序</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/combat/enchanted_book.png"></td>
-			<td><img src="../../../mc_icon/combat/enchanted_book.png"></td>
-			<td><img src="../../../mc_icon/combat/enchanted_book.png"></td>
+			<td><img src="mc_icon/combat/enchanted_book.png"></td>
+			<td><img src="mc_icon/combat/enchanted_book.png"></td>
+			<td><img src="mc_icon/combat/enchanted_book.png"></td>
 			<td colspan="2"></td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/combat/enchanted_book.png"></td>
-			<td><img src="../../../mc_icon/food/golden_apple.png"></td>
-			<td><img src="../../../mc_icon/combat/enchanted_book.png"></td>
-			<td><img src="../../../mc_icon/recipes/arrow.png"></td>
-			<td><img src="../../../mc_icon/food/enchanted_golden_apple.png"></td>
+			<td><img src="mc_icon/combat/enchanted_book.png"></td>
+			<td><img src="mc_icon/food/golden_apple.png"></td>
+			<td><img src="mc_icon/combat/enchanted_book.png"></td>
+			<td><img src="mc_icon/recipes/arrow.png"></td>
+			<td><img src="mc_icon/food/enchanted_golden_apple.png"></td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/combat/enchanted_book.png"></td>
-			<td><img src="../../../mc_icon/combat/enchanted_book.png"></td>
-			<td><img src="../../../mc_icon/combat/enchanted_book.png"></td>
+			<td><img src="mc_icon/combat/enchanted_book.png"></td>
+			<td><img src="mc_icon/combat/enchanted_book.png"></td>
+			<td><img src="mc_icon/combat/enchanted_book.png"></td>
 			<td colspan="2"></td>
 		</tr>
 	</tablebody>
@@ -34,29 +34,29 @@
 <table>
 	<tablebody>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/tile.png"></td>
+			<td><img src="mc_icon/recipes/tile.png"></td>
 			<td>图标</td>
 			<td>名称</td>
 			<td>标签</td>
 			<td>数量</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/arrow.png"></td>
-			<td><img src="../../../mc_icon/food/enchanted_golden_apple.png"></td>
+			<td><img src="mc_icon/recipes/arrow.png"></td>
+			<td><img src="mc_icon/food/enchanted_golden_apple.png"></td>
 			<td>附魔金苹果</td>
 			<td>enchanted_golden_apple</td>
 			<td>1</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/01.png"><img src="../../../mc_icon/recipes/02.png"><img src="../../../mc_icon/recipes/03.png"><img src="../../../mc_icon/recipes/04.png"><img src="../../../mc_icon/recipes/06.png"><img src="../../../mc_icon/recipes/07.png"><img src="../../../mc_icon/recipes/08.png"><img src="../../../mc_icon/recipes/09.png"></td>
-			<td><img src="../../../mc_icon/combat/enchanted_book.png"></td>
+			<td><img src="mc_icon/recipes/01.png"><img src="mc_icon/recipes/02.png"><img src="mc_icon/recipes/03.png"><img src="mc_icon/recipes/04.png"><img src="mc_icon/recipes/06.png"><img src="mc_icon/recipes/07.png"><img src="mc_icon/recipes/08.png"><img src="mc_icon/recipes/09.png"></td>
+			<td><img src="mc_icon/combat/enchanted_book.png"></td>
 			<td>附魔书</td>
 			<td>enchanted_book</td>
 			<td>8</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/05.png"></td>
-			<td><img src="../../../mc_icon/food/golden_apple.png"></td>
+			<td><img src="mc_icon/recipes/05.png"></td>
+			<td><img src="mc_icon/food/golden_apple.png"></td>
 			<td>金苹果</td>
 			<td>golden_apple</td>
 			<td>1</td>

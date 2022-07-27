@@ -11,40 +11,40 @@
 			<td colspan="5">鍛造台</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/tools/golden_axe.png"></td>
-			<td><img src="../../../mc_icon/recipes/cross.png"></td>
-			<td><img src="../../../mc_icon/misc/iron_ingot.png"></td>
-			<td><img src="../../../mc_icon/recipes/arrow.png"></td>
-			<td><img src="../../../mc_icon/tools/iron_axe.png"></td>
+			<td><img src="mc_icon/tools/golden_axe.png"></td>
+			<td><img src="mc_icon/recipes/cross.png"></td>
+			<td><img src="mc_icon/misc/iron_ingot.png"></td>
+			<td><img src="mc_icon/recipes/arrow.png"></td>
+			<td><img src="mc_icon/tools/iron_axe.png"></td>
 		</tr>
 	</tablebody>
 </table>
 <table>
 	<tablebody>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/tile.png"></td>
+			<td><img src="mc_icon/recipes/tile.png"></td>
 			<td>圖示</td>
 			<td>名稱</td>
 			<td>標簽</td>
 			<td>數量</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/single.png"></td>
-			<td><img src="../../../mc_icon/tools/golden_axe.png"></td>
+			<td><img src="mc_icon/recipes/single.png"></td>
+			<td><img src="mc_icon/tools/golden_axe.png"></td>
 			<td>金斧</td>
 			<td>golden_axe</td>
 			<td>1</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/cross.png"></td>
-			<td><img src="../../../mc_icon/misc/iron_ingot.png"></td>
+			<td><img src="mc_icon/recipes/cross.png"></td>
+			<td><img src="mc_icon/misc/iron_ingot.png"></td>
 			<td>鐵錠</td>
 			<td>iron_ingot</td>
 			<td>1</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/arrow.png"></td>
-			<td><img src="../../../mc_icon/tools/iron_axe.png"></td>
+			<td><img src="mc_icon/recipes/arrow.png"></td>
+			<td><img src="mc_icon/tools/iron_axe.png"></td>
 			<td>鐵斧</td>
 			<td>iron_axe</td>
 			<td>1</td>
@@ -65,40 +65,40 @@
 			<td colspan="5">鍛造台</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/tools/golden_hoe.png"></td>
-			<td><img src="../../../mc_icon/recipes/cross.png"></td>
-			<td><img src="../../../mc_icon/misc/iron_ingot.png"></td>
-			<td><img src="../../../mc_icon/recipes/arrow.png"></td>
-			<td><img src="../../../mc_icon/tools/iron_hoe.png"></td>
+			<td><img src="mc_icon/tools/golden_hoe.png"></td>
+			<td><img src="mc_icon/recipes/cross.png"></td>
+			<td><img src="mc_icon/misc/iron_ingot.png"></td>
+			<td><img src="mc_icon/recipes/arrow.png"></td>
+			<td><img src="mc_icon/tools/iron_hoe.png"></td>
 		</tr>
 	</tablebody>
 </table>
 <table>
 	<tablebody>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/tile.png"></td>
+			<td><img src="mc_icon/recipes/tile.png"></td>
 			<td>圖示</td>
 			<td>名稱</td>
 			<td>標簽</td>
 			<td>數量</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/single.png"></td>
-			<td><img src="../../../mc_icon/tools/golden_hoe.png"></td>
+			<td><img src="mc_icon/recipes/single.png"></td>
+			<td><img src="mc_icon/tools/golden_hoe.png"></td>
 			<td>金鋤</td>
 			<td>golden_hoe</td>
 			<td>1</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/cross.png"></td>
-			<td><img src="../../../mc_icon/misc/iron_ingot.png"></td>
+			<td><img src="mc_icon/recipes/cross.png"></td>
+			<td><img src="mc_icon/misc/iron_ingot.png"></td>
 			<td>鐵錠</td>
 			<td>iron_ingot</td>
 			<td>1</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/arrow.png"></td>
-			<td><img src="../../../mc_icon/tools/iron_hoe.png"></td>
+			<td><img src="mc_icon/recipes/arrow.png"></td>
+			<td><img src="mc_icon/tools/iron_hoe.png"></td>
 			<td>鐵鋤</td>
 			<td>iron_hoe</td>
 			<td>1</td>
@@ -119,40 +119,40 @@
 			<td colspan="5">鍛造台</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/tools/golden_pickaxe.png"></td>
-			<td><img src="../../../mc_icon/recipes/cross.png"></td>
-			<td><img src="../../../mc_icon/misc/iron_ingot.png"></td>
-			<td><img src="../../../mc_icon/recipes/arrow.png"></td>
-			<td><img src="../../../mc_icon/tools/iron_pickaxe.png"></td>
+			<td><img src="mc_icon/tools/golden_pickaxe.png"></td>
+			<td><img src="mc_icon/recipes/cross.png"></td>
+			<td><img src="mc_icon/misc/iron_ingot.png"></td>
+			<td><img src="mc_icon/recipes/arrow.png"></td>
+			<td><img src="mc_icon/tools/iron_pickaxe.png"></td>
 		</tr>
 	</tablebody>
 </table>
 <table>
 	<tablebody>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/tile.png"></td>
+			<td><img src="mc_icon/recipes/tile.png"></td>
 			<td>圖示</td>
 			<td>名稱</td>
 			<td>標簽</td>
 			<td>數量</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/single.png"></td>
-			<td><img src="../../../mc_icon/tools/golden_pickaxe.png"></td>
+			<td><img src="mc_icon/recipes/single.png"></td>
+			<td><img src="mc_icon/tools/golden_pickaxe.png"></td>
 			<td>金鎬</td>
 			<td>golden_pickaxe</td>
 			<td>1</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/cross.png"></td>
-			<td><img src="../../../mc_icon/misc/iron_ingot.png"></td>
+			<td><img src="mc_icon/recipes/cross.png"></td>
+			<td><img src="mc_icon/misc/iron_ingot.png"></td>
 			<td>鐵錠</td>
 			<td>iron_ingot</td>
 			<td>1</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/arrow.png"></td>
-			<td><img src="../../../mc_icon/tools/iron_pickaxe.png"></td>
+			<td><img src="mc_icon/recipes/arrow.png"></td>
+			<td><img src="mc_icon/tools/iron_pickaxe.png"></td>
 			<td>鐵鎬</td>
 			<td>iron_pickaxe</td>
 			<td>1</td>
@@ -173,40 +173,40 @@
 			<td colspan="5">鍛造台</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/tools/golden_shovel.png"></td>
-			<td><img src="../../../mc_icon/recipes/cross.png"></td>
-			<td><img src="../../../mc_icon/misc/iron_ingot.png"></td>
-			<td><img src="../../../mc_icon/recipes/arrow.png"></td>
-			<td><img src="../../../mc_icon/tools/iron_shovel.png"></td>
+			<td><img src="mc_icon/tools/golden_shovel.png"></td>
+			<td><img src="mc_icon/recipes/cross.png"></td>
+			<td><img src="mc_icon/misc/iron_ingot.png"></td>
+			<td><img src="mc_icon/recipes/arrow.png"></td>
+			<td><img src="mc_icon/tools/iron_shovel.png"></td>
 		</tr>
 	</tablebody>
 </table>
 <table>
 	<tablebody>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/tile.png"></td>
+			<td><img src="mc_icon/recipes/tile.png"></td>
 			<td>圖示</td>
 			<td>名稱</td>
 			<td>標簽</td>
 			<td>數量</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/single.png"></td>
-			<td><img src="../../../mc_icon/tools/golden_shovel.png"></td>
+			<td><img src="mc_icon/recipes/single.png"></td>
+			<td><img src="mc_icon/tools/golden_shovel.png"></td>
 			<td>金鏟</td>
 			<td>golden_shovel</td>
 			<td>1</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/cross.png"></td>
-			<td><img src="../../../mc_icon/misc/iron_ingot.png"></td>
+			<td><img src="mc_icon/recipes/cross.png"></td>
+			<td><img src="mc_icon/misc/iron_ingot.png"></td>
 			<td>鐵錠</td>
 			<td>iron_ingot</td>
 			<td>1</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/arrow.png"></td>
-			<td><img src="../../../mc_icon/tools/iron_shovel.png"></td>
+			<td><img src="mc_icon/recipes/arrow.png"></td>
+			<td><img src="mc_icon/tools/iron_shovel.png"></td>
 			<td>鐵鏟</td>
 			<td>iron_shovel</td>
 			<td>1</td>
@@ -227,40 +227,40 @@
 			<td colspan="5">鍛造台</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/combat/golden_sword.png"></td>
-			<td><img src="../../../mc_icon/recipes/cross.png"></td>
-			<td><img src="../../../mc_icon/misc/iron_ingot.png"></td>
-			<td><img src="../../../mc_icon/recipes/arrow.png"></td>
-			<td><img src="../../../mc_icon/combat/iron_sword.png"></td>
+			<td><img src="mc_icon/combat/golden_sword.png"></td>
+			<td><img src="mc_icon/recipes/cross.png"></td>
+			<td><img src="mc_icon/misc/iron_ingot.png"></td>
+			<td><img src="mc_icon/recipes/arrow.png"></td>
+			<td><img src="mc_icon/combat/iron_sword.png"></td>
 		</tr>
 	</tablebody>
 </table>
 <table>
 	<tablebody>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/tile.png"></td>
+			<td><img src="mc_icon/recipes/tile.png"></td>
 			<td>圖示</td>
 			<td>名稱</td>
 			<td>標簽</td>
 			<td>數量</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/single.png"></td>
-			<td><img src="../../../mc_icon/combat/golden_sword.png"></td>
+			<td><img src="mc_icon/recipes/single.png"></td>
+			<td><img src="mc_icon/combat/golden_sword.png"></td>
 			<td>金劍</td>
 			<td>golden_sword</td>
 			<td>1</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/cross.png"></td>
-			<td><img src="../../../mc_icon/misc/iron_ingot.png"></td>
+			<td><img src="mc_icon/recipes/cross.png"></td>
+			<td><img src="mc_icon/misc/iron_ingot.png"></td>
 			<td>鐵錠</td>
 			<td>iron_ingot</td>
 			<td>1</td>
 		</tr>
 		<tr>
-			<td><img src="../../../mc_icon/recipes/arrow.png"></td>
-			<td><img src="../../../mc_icon/combat/iron_sword.png"></td>
+			<td><img src="mc_icon/recipes/arrow.png"></td>
+			<td><img src="mc_icon/combat/iron_sword.png"></td>
 			<td>鐵劍</td>
 			<td>iron_sword</td>
 			<td>1</td>
