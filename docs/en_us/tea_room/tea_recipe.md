@@ -8,7 +8,7 @@
 			<td>Level</td>
 			<td>Expense</td>
 			<td>Expense ID</td>
-			<td>Target</td>
+			<td>Item</td>
 		</tr>
 		<tr>
             <td>Unbreaking</td>
@@ -264,7 +264,7 @@
             <td>Ⅰ</td>
             <td><img src="./mc_icon/decorations/end_rod.png">End Rod</td>
 			<td>end_rod</td>
-			<td>Armor/td>
+			<td>Armor</td>
 		</tr>
         <tr>
             <td>Respiration</td>

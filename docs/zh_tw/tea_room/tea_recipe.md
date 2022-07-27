@@ -8,7 +8,7 @@
 			<td>等級</td>
 			<td>花費</td>
 			<td>花費 ID</td>
-			<td>標靶</td>
+			<td>物品</td>
 		</tr>
 		<tr>
             <td>耐久</td>
@@ -264,7 +264,7 @@
             <td>Ⅰ</td>
             <td><img src="./mc_icon/decorations/end_rod.png">終界燭</td>
 			<td>end_rod</td>
-			<td>盔甲/td>
+			<td>盔甲</td>
 		</tr>
         <tr>
             <td>水中呼吸</td>

@@ -8,7 +8,7 @@
 			<td>等级</td>
 			<td>花费</td>
 			<td>花费 ID</td>
-			<td>标靶</td>
+			<td>物品</td>
 		</tr>
 		<tr>
             <td>耐久</td>
@@ -264,7 +264,7 @@
             <td>Ⅰ</td>
             <td><img src="./mc_icon/decorations/end_rod.png">末地烛</td>
 			<td>end_rod</td>
-			<td>盔甲/td>
+			<td>盔甲</td>
 		</tr>
         <tr>
             <td>水下呼吸</td>
