@@ -16,7 +16,9 @@ This is a Minecraft data pack that speeds up player progression in Survival Mode
 
 ### Download 下載
 
-[Git Hub](https://github.com/seesee777/LemonTea/releases)
+[GitHub](https://github.com/seesee777/LemonTea/releases)
+
+[Gitee](https://gitee.com/bittoyorg/LemonTea/releases)
 
 ### Donate 贊助
 
