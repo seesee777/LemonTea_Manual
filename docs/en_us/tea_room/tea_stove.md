@@ -86,7 +86,7 @@ Large·Tea Stove
 
 * Detect spatial order
    * First detect the container in the block where the consumable is located, such as chest, hopper and other incomplete blocks.
-   * Then check the container in the block below the consumable, such as barrel, shulker boxe and other complete blocks.
+   * Then check the container in the block below the consumable, such as barrel, shulker box and other complete blocks.
 
 * Detect time sequence
    * Detected every 20ticks, the detection of different items is staggered.

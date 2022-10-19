@@ -1,0 +1,5 @@
+* [Cover](/)
+* [Summary](/README.md)
+* [Content](/en_us/README.md)
+* [Blocks](/en_us/loot_table/blocks/README.md)
+  * [Vines](/en_us/loot_table/blocks/vine.md)

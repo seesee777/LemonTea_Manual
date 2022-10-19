@@ -2,4 +2,5 @@
 * [Summary](/README.md)
 * [Content](/en_us/README.md)
 * [Loot Table](/en_us/loot_table/README.md)
+  * [Blocks](/en_us/loot_table/blocks/README.md)
   * [Entities](/en_us/loot_table/entities/README.md)
