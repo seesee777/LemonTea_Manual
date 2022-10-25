@@ -15,10 +15,10 @@ budding_amethyst
 		<tr>
 			<td>Vanilla</td>
 			<td>Reserve </td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>-</td>
+			<td>-</td>
+			<td>-</td>
+			<td>-</td>
 		</tr>
 		<tr>
 			<td>Silk Touch</td>

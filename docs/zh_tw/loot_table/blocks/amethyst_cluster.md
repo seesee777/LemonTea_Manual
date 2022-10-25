@@ -16,10 +16,10 @@ amethyst_cluster
 		<tr>
 			<td>原版</td>
 			<td>保留</td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>-</td>
+			<td>-</td>
+			<td>-</td>
+			<td>-</td>
 		</tr>
 		<tr>
 			<td>非玩家</td>
@@ -51,10 +51,10 @@ large_amethyst_bud
 		<tr>
 			<td>原版</td>
 			<td>保留</td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>-</td>
+			<td>-</td>
+			<td>-</td>
+			<td>-</td>
 		</tr>
 		<tr>
 			<td>非玩家</td>
@@ -86,10 +86,10 @@ medium_amethyst_bud
 		<tr>
 			<td>原版</td>
 			<td>保留</td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>-</td>
+			<td>-</td>
+			<td>-</td>
+			<td>-</td>
 		</tr>
 		<tr>
 			<td>非玩家</td>
@@ -121,10 +121,10 @@ small_amethyst_bud
 		<tr>
 			<td>原版</td>
 			<td>保留</td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>-</td>
+			<td>-</td>
+			<td>-</td>
+			<td>-</td>
 		</tr>
 		<tr>
 			<td>非玩家</td>

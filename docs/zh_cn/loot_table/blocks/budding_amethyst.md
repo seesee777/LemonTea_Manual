@@ -15,10 +15,10 @@ budding_amethyst
 		<tr>
 			<td>原版</td>
 			<td>保留</td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>-</td>
+			<td>-</td>
+			<td>-</td>
+			<td>-</td>
 		</tr>
 		<tr>
 			<td>精准采集</td>

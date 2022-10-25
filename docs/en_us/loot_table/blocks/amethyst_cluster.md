@@ -16,10 +16,10 @@ amethyst_cluster
 		<tr>
 			<td>Vanilla</td>
 			<td>Reserve </td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>-</td>
+			<td>-</td>
+			<td>-</td>
+			<td>-</td>
 		</tr>
 		<tr>
 			<td>Non-player </td>
@@ -51,10 +51,10 @@ large_amethyst_bud
 		<tr>
 			<td>Vanilla</td>
 			<td>Reserve </td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>-</td>
+			<td>-</td>
+			<td>-</td>
+			<td>-</td>
 		</tr>
 		<tr>
 			<td>Non-player </td>
@@ -86,10 +86,10 @@ medium_amethyst_bud
 		<tr>
 			<td>Vanilla</td>
 			<td>Reserve </td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>-</td>
+			<td>-</td>
+			<td>-</td>
+			<td>-</td>
 		</tr>
 		<tr>
 			<td>Non-player </td>
@@ -121,10 +121,10 @@ small_amethyst_bud
 		<tr>
 			<td>Vanilla</td>
 			<td>Reserve </td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>-</td>
+			<td>-</td>
+			<td>-</td>
+			<td>-</td>
 		</tr>
 		<tr>
 			<td>Non-player </td>

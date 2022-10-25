@@ -4,5 +4,6 @@
 * [Blocks](/en_us/loot_table/blocks/README.md)
   * [Amethyst Cluster](/en_us/loot_table/blocks/amethyst_cluster.md)
   * [Budding Amethyst](/en_us/loot_table/blocks/budding_amethyst.md)
+  * [Coral](/en_us/loot_table/blocks/coral.md)
   * [Snow](/en_us/loot_table/blocks/snow.md)
   * [Vines](/en_us/loot_table/blocks/vine.md)

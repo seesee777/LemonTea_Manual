@@ -4,6 +4,8 @@
 
 [紫水晶芽床](/zh_tw/loot_table/blocks/budding_amethyst.md)
 
+[珊瑚](/zh_tw/loot_table/blocks/coral.md)
+
 [雪](/zh_tw/loot_table/blocks/snow.md)
 
 [藤蔓](/zh_tw/loot_table/blocks/vine.md)

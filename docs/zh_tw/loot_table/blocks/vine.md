@@ -15,10 +15,10 @@ vine
 		<tr>
 			<td>原版</td>
 			<td>保留</td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>-</td>
+			<td>-</td>
+			<td>-</td>
+			<td>-</td>
 		</tr>
 		<tr>
 			<td>非玩家</td>
