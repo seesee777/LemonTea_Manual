@@ -4,5 +4,7 @@
 
 [Budding Amethyst](/en_us/loot_table/blocks/budding_amethyst.md)
 
+[Snow](/en_us/loot_table/blocks/snow.md)
+
 [Vines](/en_us/loot_table/blocks/vine.md)
 

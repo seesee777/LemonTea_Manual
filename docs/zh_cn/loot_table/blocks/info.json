@@ -1,17 +1,14 @@
 {
-  'id': 'amethyst_cluster',
-  'icon': 'C:\\Users\\seese\\Files\\Projects\\MC_datapacks\\recipe_auto_manual\\LemonTea_auto_recipes\\output\\wiki_local\\docs\\mc_icon\\decorations\\cluster\\amethyst_cluster.png',
-  'en_us': 'Amethyst Cluster',
-  'zh_cn': '紫水晶簇',
-  'zh_tw': '紫水晶晶簇'
+  'id': 'snow',
+  'icon': 'C:\\Users\\seese\\Files\\Projects\\MC_datapacks\\recipe_auto_manual\\LemonTea_auto_recipes\\output\\wiki_local\\docs\\mc_icon\\decorations\\snow.png',
+  'en_us': 'Snow',
+  'zh_cn': '雪',
+  'zh_tw': '雪'
 }
-
-amethyst_shard
-
 {
-  'id': 'amethyst_shard',
-  'icon': 'C:\\Users\\seese\\Files\\Projects\\MC_datapacks\\recipe_auto_manual\\LemonTea_auto_recipes\\output\\wiki_local\\docs\\mc_icon\\misc\\amethyst_shard.png',
-  'en_us': 'Amethyst Shard',
-  'zh_cn': '紫水晶碎片',
-  'zh_tw': '紫水晶碎片'
+  'id': 'snowball',
+  'icon': 'C:\\Users\\seese\\Files\\Projects\\MC_datapacks\\recipe_auto_manual\\LemonTea_auto_recipes\\output\\wiki_local\\docs\\mc_icon\\misc\\snowball.png',
+  'en_us': 'Snowball',
+  'zh_cn': '雪球',
+  'zh_tw': '雪球'
 }

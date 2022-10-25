@@ -22,15 +22,7 @@ amethyst_cluster
 			<td></td>
 		</tr>
 		<tr>
-			<td>Unarmed </td>
-			<td>100%</td>
-			<td>Amethyst Shard</td>
-			<td><img src="./mc_icon/misc/amethyst_shard.png"></td>
-			<td>amethyst_shard</td>
-			<td>+4</td>
-		</tr>
-		<tr>
-			<td>Piston</td>
+			<td>Non-player </td>
 			<td>100%</td>
 			<td>Amethyst Shard</td>
 			<td><img src="./mc_icon/misc/amethyst_shard.png"></td>
@@ -65,15 +57,7 @@ large_amethyst_bud
 			<td></td>
 		</tr>
 		<tr>
-			<td>Unarmed </td>
-			<td>100%</td>
-			<td>Amethyst Shard</td>
-			<td><img src="./mc_icon/misc/amethyst_shard.png"></td>
-			<td>amethyst_shard</td>
-			<td>+3</td>
-		</tr>
-		<tr>
-			<td>Piston</td>
+			<td>Non-player </td>
 			<td>100%</td>
 			<td>Amethyst Shard</td>
 			<td><img src="./mc_icon/misc/amethyst_shard.png"></td>
@@ -108,15 +92,7 @@ medium_amethyst_bud
 			<td></td>
 		</tr>
 		<tr>
-			<td>Unarmed </td>
-			<td>100%</td>
-			<td>Amethyst Shard</td>
-			<td><img src="./mc_icon/misc/amethyst_shard.png"></td>
-			<td>amethyst_shard</td>
-			<td>+2</td>
-		</tr>
-		<tr>
-			<td>Piston</td>
+			<td>Non-player </td>
 			<td>100%</td>
 			<td>Amethyst Shard</td>
 			<td><img src="./mc_icon/misc/amethyst_shard.png"></td>
@@ -151,15 +127,7 @@ small_amethyst_bud
 			<td></td>
 		</tr>
 		<tr>
-			<td>Unarmed </td>
-			<td>100%</td>
-			<td>Amethyst Shard</td>
-			<td><img src="./mc_icon/misc/amethyst_shard.png"></td>
-			<td>amethyst_shard</td>
-			<td>+1</td>
-		</tr>
-		<tr>
-			<td>Piston</td>
+			<td>Non-player </td>
 			<td>100%</td>
 			<td>Amethyst Shard</td>
 			<td><img src="./mc_icon/misc/amethyst_shard.png"></td>

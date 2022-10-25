@@ -2,7 +2,7 @@
 
 ![logo](mc_icon/image/lemon%20tea_320.png)
 
-# Lemon Tea <small>0.10</small>
+# Lemon Tea <small>0.11.3_alpha</small>
 
 > A datapack for MINECRAFT survival mode.
 

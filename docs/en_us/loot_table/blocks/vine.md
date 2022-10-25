@@ -21,16 +21,8 @@ vine
 			<td></td>
 		</tr>
 		<tr>
-			<td>Unarmed </td>
-			<td>50%</td>
-			<td>Vines</td>
-			<td><img src="./mc_icon/decorations/vine.png"></td>
-			<td>vine</td>
-			<td>+1</td>
-		</tr>
-		<tr>
-			<td>Piston</td>
-			<td>50%</td>
+			<td>Non-player </td>
+			<td>100%</td>
 			<td>Vines</td>
 			<td><img src="./mc_icon/decorations/vine.png"></td>
 			<td>vine</td>

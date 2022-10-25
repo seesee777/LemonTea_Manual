@@ -21,16 +21,8 @@ vine
 			<td></td>
 		</tr>
 		<tr>
-			<td>徒手</td>
-			<td>50%</td>
-			<td>藤蔓</td>
-			<td><img src="./mc_icon/decorations/vine.png"></td>
-			<td>vine</td>
-			<td>+1</td>
-		</tr>
-		<tr>
-			<td>活塞</td>
-			<td>50%</td>
+			<td>非玩家</td>
+			<td>100%</td>
 			<td>藤蔓</td>
 			<td><img src="./mc_icon/decorations/vine.png"></td>
 			<td>vine</td>
