@@ -1,7 +1,8 @@
 ## 紫水晶晶簇：
 
-<img src="./mc_icon/decorations/cluster/amethyst_cluster.png">
-amethyst_cluster
+> <img src="./mc_icon/decorations/cluster/amethyst_cluster.png">
+>
+> ID: amethyst_cluster
 
 <table>
 	<tablebody>
@@ -35,8 +36,9 @@ amethyst_cluster
 
 ## 大型紫水晶芽：
 
-<img src="./mc_icon/decorations/cluster/large_amethyst_bud.png">
-large_amethyst_bud
+> <img src="./mc_icon/decorations/cluster/large_amethyst_bud.png">
+>
+> ID: large_amethyst_bud
 
 <table>
 	<tablebody>
@@ -70,8 +72,9 @@ large_amethyst_bud
 
 ## 中型紫水晶芽：
 
-<img src="./mc_icon/decorations/cluster/medium_amethyst_bud.png">
-medium_amethyst_bud
+> <img src="./mc_icon/decorations/cluster/medium_amethyst_bud.png">
+>
+> ID: medium_amethyst_bud
 
 <table>
 	<tablebody>
@@ -105,8 +108,9 @@ medium_amethyst_bud
 
 ## 小型紫水晶芽：
 
-<img src="./mc_icon/decorations/cluster/small_amethyst_bud.png">
-small_amethyst_bud
+> <img src="./mc_icon/decorations/cluster/small_amethyst_bud.png">
+>
+> ID: small_amethyst_bud
 
 <table>
 	<tablebody>

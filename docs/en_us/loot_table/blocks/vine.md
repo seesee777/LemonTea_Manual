@@ -1,6 +1,8 @@
 ## Vines：
-<img src="./mc_icon/decorations/vine.png">
-vine
+
+> <img src="./mc_icon/decorations/vine.png">
+>
+> ID: vine
 
 <table>
 	<tablebody>
@@ -21,7 +23,7 @@ vine
 			<td>-</td>
 		</tr>
 		<tr>
-			<td>Non-player </td>
+			<td>Non-player</td>
 			<td>100%</td>
 			<td>Vines</td>
 			<td><img src="./mc_icon/decorations/vine.png"></td>

@@ -1,6 +1,8 @@
 ## Snow：
-<img src="./mc_icon/decorations/snow.png">
-snow
+
+> <img src="./mc_icon/decorations/snow.png">
+>
+> ID: snow
 
 <table>
 	<tablebody>
@@ -21,7 +23,7 @@ snow
 			<td>-</td>
 		</tr>
 		<tr>
-			<td>Non-player </td>
+			<td>Non-player</td>
 			<td>100%</td>
 			<td>Snowball</td>
 			<td><img src="./mc_icon/misc/snowball.png"></td>

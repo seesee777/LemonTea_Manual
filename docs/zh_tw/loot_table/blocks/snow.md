@@ -1,6 +1,8 @@
 ## 雪：
-<img src="./mc_icon/decorations/snow.png">
-snow
+
+> <img src="./mc_icon/decorations/snow.png">
+>
+> ID: snow
 
 <table>
 	<tablebody>

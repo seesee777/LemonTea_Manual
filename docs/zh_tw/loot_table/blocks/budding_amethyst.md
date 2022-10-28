@@ -1,6 +1,8 @@
 ## 紫水晶芽床：
-<img src="./mc_icon/buildingBlocks/budding_amethyst.png">
-budding_amethyst
+
+> <img src="./mc_icon/buildingBlocks/budding_amethyst.png">
+>
+> ID: budding_amethyst
 
 <table>
 	<tablebody>

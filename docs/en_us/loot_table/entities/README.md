@@ -4,3 +4,5 @@
 
 [Shulker](/en_us/loot_table/entities/shulker.md)
 
+[Turtle](/en_us/loot_table/entities/turtle.md)
+

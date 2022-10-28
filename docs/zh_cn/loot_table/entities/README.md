@@ -4,3 +4,5 @@
 
 [潜影贝](/zh_cn/loot_table/entities/shulker.md)
 
+[海龟](/zh_cn/loot_table/entities/turtle.md)
+

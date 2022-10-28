@@ -1,7 +1,8 @@
 ## Brain Coral：
 
-<img src="./mc_icon/decorations/coral/brain_coral.png">
-brain_coral
+> <img src="./mc_icon/decorations/coral/brain_coral.png">
+>
+> ID:brain_coral
 
 <table>
 	<tablebody>
@@ -22,7 +23,7 @@ brain_coral
 			<td>-</td>
 		</tr>
 		<tr>
-			<td>Non-player </td>
+			<td>Non-player</td>
 			<td>100%</td>
 			<td>Dead Brain Coral</td>
 			<td><img src="./mc_icon/decorations/coral/dead_brain_coral.png"></td>
@@ -35,8 +36,9 @@ brain_coral
 
 ## Brain Coral Fan：
 
-<img src="./mc_icon/decorations/coral/brain_coral_fan.png">
-brain_coral_fan
+> <img src="./mc_icon/decorations/coral/brain_coral_fan.png">
+>
+> ID: brain_coral_fan
 
 <table>
 	<tablebody>
@@ -57,7 +59,7 @@ brain_coral_fan
 			<td>-</td>
 		</tr>
 		<tr>
-			<td>Non-player </td>
+			<td>Non-player</td>
 			<td>100%</td>
 			<td>Dead Brain Coral Fan</td>
 			<td><img src="./mc_icon/decorations/coral/dead_brain_coral_fan.png"></td>
@@ -70,8 +72,9 @@ brain_coral_fan
 
 ## Bubble Coral：
 
-<img src="./mc_icon/decorations/coral/bubble_coral.png">
-bubble_coral
+> <img src="./mc_icon/decorations/coral/bubble_coral.png">
+>
+> ID: bubble_coral
 
 <table>
 	<tablebody>
@@ -92,7 +95,7 @@ bubble_coral
 			<td>-</td>
 		</tr>
 		<tr>
-			<td>Non-player </td>
+			<td>Non-player</td>
 			<td>100%</td>
 			<td>Dead Bubble Coral</td>
 			<td><img src="./mc_icon/decorations/coral/dead_bubble_coral.png"></td>
@@ -105,8 +108,9 @@ bubble_coral
 
 ## Bubble Coral Fan：
 
-<img src="./mc_icon/decorations/coral/bubble_coral_fan.png">
-bubble_coral_fan
+> <img src="./mc_icon/decorations/coral/bubble_coral_fan.png">
+>
+> ID: bubble_coral_fan
 
 <table>
 	<tablebody>
@@ -127,7 +131,7 @@ bubble_coral_fan
 			<td>-</td>
 		</tr>
 		<tr>
-			<td>Non-player </td>
+			<td>Non-player</td>
 			<td>100%</td>
 			<td>Dead Bubble Coral Fan</td>
 			<td><img src="./mc_icon/decorations/coral/dead_bubble_coral_fan.png"></td>
@@ -140,8 +144,9 @@ bubble_coral_fan
 
 ## Fire Coral：
 
-<img src="./mc_icon/decorations/coral/fire_coral.png">
-fire_coral
+> <img src="./mc_icon/decorations/coral/fire_coral.png">
+>
+> ID: fire_coral
 
 <table>
 	<tablebody>
@@ -162,7 +167,7 @@ fire_coral
 			<td>-</td>
 		</tr>
 		<tr>
-			<td>Non-player </td>
+			<td>Non-player</td>
 			<td>100%</td>
 			<td>Dead Fire Coral</td>
 			<td><img src="./mc_icon/decorations/coral/dead_fire_coral.png"></td>
@@ -175,8 +180,9 @@ fire_coral
 
 ## Fire Coral Fan：
 
-<img src="./mc_icon/decorations/coral/fire_coral_fan.png">
-fire_coral_fan
+> <img src="./mc_icon/decorations/coral/fire_coral_fan.png">
+>
+> ID: fire_coral_fan
 
 <table>
 	<tablebody>
@@ -197,7 +203,7 @@ fire_coral_fan
 			<td>-</td>
 		</tr>
 		<tr>
-			<td>Non-player </td>
+			<td>Non-player</td>
 			<td>100%</td>
 			<td>Dead Fire Coral Fan</td>
 			<td><img src="./mc_icon/decorations/coral/dead_bubble_coral_fan.png"></td>
@@ -208,12 +214,11 @@ fire_coral_fan
 </table>
 
 
-
-
 ## Horn Coral：
 
-<img src="./mc_icon/decorations/coral/horn_coral.png">
-horn_coral
+> <img src="./mc_icon/decorations/coral/horn_coral.png">
+>
+> ID: horn_coral
 
 <table>
 	<tablebody>
@@ -234,7 +239,7 @@ horn_coral
 			<td>-</td>
 		</tr>
 		<tr>
-			<td>Non-player </td>
+			<td>Non-player</td>
 			<td>100%</td>
 			<td>Dead Horn Coral</td>
 			<td><img src="./mc_icon/decorations/coral/dead_horn_coral.png"></td>
@@ -247,8 +252,9 @@ horn_coral
 
 ## Horn Coral Fan：
 
-<img src="./mc_icon/decorations/coral/horn_coral_fan.png">
-horn_coral_fan
+> <img src="./mc_icon/decorations/coral/horn_coral_fan.png">
+>
+> ID: horn_coral_fan
 
 <table>
 	<tablebody>
@@ -269,7 +275,7 @@ horn_coral_fan
 			<td>-</td>
 		</tr>
 		<tr>
-			<td>Non-player </td>
+			<td>Non-player</td>
 			<td>100%</td>
 			<td>Dead Horn Coral Fan</td>
 			<td><img src="./mc_icon/decorations/coral/dead_horn_coral_fan.png"></td>
@@ -280,12 +286,11 @@ horn_coral_fan
 </table>
 
 
-
-
 ## Tube Coral：
 
-<img src="./mc_icon/decorations/coral/tube_coral.png">
-tube_coral
+> <img src="./mc_icon/decorations/coral/tube_coral.png">
+>
+> ID: tube_coral
 
 <table>
 	<tablebody>
@@ -306,7 +311,7 @@ tube_coral
 			<td>-</td>
 		</tr>
 		<tr>
-			<td>Non-player </td>
+			<td>Non-player</td>
 			<td>100%</td>
 			<td>Dead Tube Coral</td>
 			<td><img src="./mc_icon/decorations/coral/dead_tube_coral.png"></td>
@@ -319,8 +324,9 @@ tube_coral
 
 ## Tube Coral Fan：
 
-<img src="./mc_icon/decorations/coral/tube_coral_fan.png">
-tube_coral_fan
+> <img src="./mc_icon/decorations/coral/tube_coral_fan.png">
+>
+> ID: tube_coral_fan
 
 <table>
 	<tablebody>
@@ -341,7 +347,7 @@ tube_coral_fan
 			<td>-</td>
 		</tr>
 		<tr>
-			<td>Non-player </td>
+			<td>Non-player</td>
 			<td>100%</td>
 			<td>Dead Tube Coral Fan</td>
 			<td><img src="./mc_icon/decorations/coral/dead_tube_coral_fan.png"></td>

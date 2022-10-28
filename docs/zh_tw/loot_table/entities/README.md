@@ -4,3 +4,5 @@
 
 [界伏蚌](/zh_tw/loot_table/entities/shulker.md)
 
+[海龜](/zh_tw/loot_table/entities/turtle.md)
+

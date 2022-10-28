@@ -1,7 +1,8 @@
 ## Amethyst Cluster：
 
-<img src="./mc_icon/decorations/cluster/amethyst_cluster.png">
-amethyst_cluster
+> <img src="./mc_icon/decorations/cluster/amethyst_cluster.png">
+>
+> ID: amethyst_cluster
 
 <table>
 	<tablebody>
@@ -22,7 +23,7 @@ amethyst_cluster
 			<td>-</td>
 		</tr>
 		<tr>
-			<td>Non-player </td>
+			<td>Non-player</td>
 			<td>100%</td>
 			<td>Amethyst Shard</td>
 			<td><img src="./mc_icon/misc/amethyst_shard.png"></td>
@@ -35,8 +36,9 @@ amethyst_cluster
 
 ## Large Amethyst Bud：
 
-<img src="./mc_icon/decorations/cluster/large_amethyst_bud.png">
-large_amethyst_bud
+> <img src="./mc_icon/decorations/cluster/large_amethyst_bud.png">
+>
+> ID: large_amethyst_bud
 
 <table>
 	<tablebody>
@@ -57,7 +59,7 @@ large_amethyst_bud
 			<td>-</td>
 		</tr>
 		<tr>
-			<td>Non-player </td>
+			<td>Non-player</td>
 			<td>100%</td>
 			<td>Amethyst Shard</td>
 			<td><img src="./mc_icon/misc/amethyst_shard.png"></td>
@@ -70,8 +72,9 @@ large_amethyst_bud
 
 ## Medium Amethyst Bud：
 
-<img src="./mc_icon/decorations/cluster/medium_amethyst_bud.png">
-medium_amethyst_bud
+> <img src="./mc_icon/decorations/cluster/medium_amethyst_bud.png">
+>
+> ID: medium_amethyst_bud
 
 <table>
 	<tablebody>
@@ -92,7 +95,7 @@ medium_amethyst_bud
 			<td>-</td>
 		</tr>
 		<tr>
-			<td>Non-player </td>
+			<td>Non-player</td>
 			<td>100%</td>
 			<td>Amethyst Shard</td>
 			<td><img src="./mc_icon/misc/amethyst_shard.png"></td>
@@ -105,8 +108,9 @@ medium_amethyst_bud
 
 ## Small Amethyst Bud：
 
-<img src="./mc_icon/decorations/cluster/small_amethyst_bud.png">
-small_amethyst_bud
+> <img src="./mc_icon/decorations/cluster/small_amethyst_bud.png">
+>
+> ID: small_amethyst_bud
 
 <table>
 	<tablebody>
@@ -127,7 +131,7 @@ small_amethyst_bud
 			<td>-</td>
 		</tr>
 		<tr>
-			<td>Non-player </td>
+			<td>Non-player</td>
 			<td>100%</td>
 			<td>Amethyst Shard</td>
 			<td><img src="./mc_icon/misc/amethyst_shard.png"></td>

@@ -1,7 +1,8 @@
 ## 腦珊瑚：
 
-<img src="./mc_icon/decorations/coral/brain_coral.png">
-brain_coral
+> <img src="./mc_icon/decorations/coral/brain_coral.png">
+>
+> ID:brain_coral
 
 <table>
 	<tablebody>
@@ -35,8 +36,9 @@ brain_coral
 
 ## 扇狀腦珊瑚：
 
-<img src="./mc_icon/decorations/coral/brain_coral_fan.png">
-brain_coral_fan
+> <img src="./mc_icon/decorations/coral/brain_coral_fan.png">
+>
+> ID: brain_coral_fan
 
 <table>
 	<tablebody>
@@ -70,8 +72,9 @@ brain_coral_fan
 
 ## 氣泡珊瑚：
 
-<img src="./mc_icon/decorations/coral/bubble_coral.png">
-bubble_coral
+> <img src="./mc_icon/decorations/coral/bubble_coral.png">
+>
+> ID: bubble_coral
 
 <table>
 	<tablebody>
@@ -105,8 +108,9 @@ bubble_coral
 
 ## 扇狀氣泡珊瑚：
 
-<img src="./mc_icon/decorations/coral/bubble_coral_fan.png">
-bubble_coral_fan
+> <img src="./mc_icon/decorations/coral/bubble_coral_fan.png">
+>
+> ID: bubble_coral_fan
 
 <table>
 	<tablebody>
@@ -140,8 +144,9 @@ bubble_coral_fan
 
 ## 火珊瑚：
 
-<img src="./mc_icon/decorations/coral/fire_coral.png">
-fire_coral
+> <img src="./mc_icon/decorations/coral/fire_coral.png">
+>
+> ID: fire_coral
 
 <table>
 	<tablebody>
@@ -175,8 +180,9 @@ fire_coral
 
 ## 扇狀火珊瑚：
 
-<img src="./mc_icon/decorations/coral/fire_coral_fan.png">
-fire_coral_fan
+> <img src="./mc_icon/decorations/coral/fire_coral_fan.png">
+>
+> ID: fire_coral_fan
 
 <table>
 	<tablebody>
@@ -208,12 +214,11 @@ fire_coral_fan
 </table>
 
 
-
-
 ## 角珊瑚：
 
-<img src="./mc_icon/decorations/coral/horn_coral.png">
-horn_coral
+> <img src="./mc_icon/decorations/coral/horn_coral.png">
+>
+> ID: horn_coral
 
 <table>
 	<tablebody>
@@ -247,8 +252,9 @@ horn_coral
 
 ## 扇狀角珊瑚：
 
-<img src="./mc_icon/decorations/coral/horn_coral_fan.png">
-horn_coral_fan
+> <img src="./mc_icon/decorations/coral/horn_coral_fan.png">
+>
+> ID: horn_coral_fan
 
 <table>
 	<tablebody>
@@ -280,12 +286,11 @@ horn_coral_fan
 </table>
 
 
-
-
 ## 管珊瑚：
 
-<img src="./mc_icon/decorations/coral/tube_coral.png">
-tube_coral
+> <img src="./mc_icon/decorations/coral/tube_coral.png">
+>
+> ID: tube_coral
 
 <table>
 	<tablebody>
@@ -319,8 +324,9 @@ tube_coral
 
 ## 扇狀管珊瑚：
 
-<img src="./mc_icon/decorations/coral/tube_coral_fan.png">
-tube_coral_fan
+> <img src="./mc_icon/decorations/coral/tube_coral_fan.png">
+>
+> ID: tube_coral_fan
 
 <table>
 	<tablebody>

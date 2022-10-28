@@ -1,6 +1,8 @@
 ## 藤蔓：
-<img src="./mc_icon/decorations/vine.png">
-vine
+
+> <img src="./mc_icon/decorations/vine.png">
+>
+> ID: vine
 
 <table>
 	<tablebody>
