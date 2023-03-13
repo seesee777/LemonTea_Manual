@@ -1,14 +1,41 @@
-## Tea Recipe：
+<!--file_language=zh_cn-->
+
+## 茶方：
 
 <table>
 	<tablebody>
-		<tr>
-			<td>Enchanted Book</td>
+        <tr>
+			<td>Effects</td>
+			<td>Expense</td>
+			<td>Expense ID</td>
+            <td>object</td>
+		</tr>
+        <tr>
+			<td>RemoveCurse</td>
+			<td><img src="./mc_icon/food/poisonous_potato.png">Poisonous Potato</td>
+			<td>poisonous_potato</td>
+			<td>EnchantedThing</td>
+		</tr>
+        <tr>
+			<td>RemoveExperiencePunishment</td>
+			<td><img src="./mc_icon/misc/experience_bottle.png">Bottle o' Enchanting</td>
+			<td>experience_bottle</td>
+			<td>EnchantedThing</td>
+		</tr>
+	</tablebody>
+</table>
+
+---
+
+<table>
+	<tablebody>
+        <tr>
+			<td>Enchantment</td>
 			<td>Enchantment ID</td>
 			<td>Level</td>
 			<td>Expense</td>
 			<td>Expense ID</td>
-			<td>Item</td>
+			<td>object</td>
 		</tr>
 		<tr>
             <td>Unbreaking</td>
@@ -270,8 +297,8 @@
             <td>Respiration</td>
             <td>respiration</td>
             <td>Ⅲ</td>
-            <td><img src="./mc_icon/combat/turtle_helmet.png">Turtle Shell</td>
-			<td>turtle_helmet</td>
+            <td><img src="./mc_icon/decorations/barrel.png">Barrel</td>
+			<td>barrel</td>
 			<td>Helmet</td>
 		</tr>
         <tr>
@@ -313,6 +340,14 @@
             <td><img src="./mc_icon/misc/heart_of_the_sea.png">Heart of the Sea</td>
 			<td>heart_of_the_sea</td>
 			<td>Boots</td>
+		</tr>
+        <tr>
+            <td>Swift Sneak</td>
+            <td>swift_sneak</td>
+            <td>Ⅲ</td>
+            <td><img src="./mc_icon/brewing/rabbit_foot.png">Rabbit's Foot</td>
+			<td>rabbit_foot</td>
+			<td>Leggings</td>
 		</tr>
 	</tablebody>
 </table>

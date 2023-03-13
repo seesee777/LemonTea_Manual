@@ -1,14 +1,41 @@
+<!--file_language=zh_cn-->
+
 ## 茶方：
 
 <table>
 	<tablebody>
-		<tr>
-			<td>附魔书</td>
+        <tr>
+			<td>效果</td>
+			<td>花费</td>
+			<td>花费 ID</td>
+            <td>对象</td>
+		</tr>
+        <tr>
+			<td>移除诅咒</td>
+			<td><img src="./mc_icon/food/poisonous_potato.png">毒马铃薯</td>
+			<td>poisonous_potato</td>
+			<td>附魔物品</td>
+		</tr>
+        <tr>
+			<td>移除经验值惩罚</td>
+			<td><img src="./mc_icon/misc/experience_bottle.png">附魔之瓶</td>
+			<td>experience_bottle</td>
+			<td>附魔物品</td>
+		</tr>
+	</tablebody>
+</table>
+
+---
+
+<table>
+	<tablebody>
+        <tr>
+			<td>魔咒</td>
 			<td>魔咒 ID</td>
 			<td>等级</td>
 			<td>花费</td>
 			<td>花费 ID</td>
-			<td>物品</td>
+			<td>对象</td>
 		</tr>
 		<tr>
             <td>耐久</td>
@@ -270,8 +297,8 @@
             <td>水下呼吸</td>
             <td>respiration</td>
             <td>Ⅲ</td>
-            <td><img src="./mc_icon/combat/turtle_helmet.png">海龟壳</td>
-			<td>turtle_helmet</td>
+            <td><img src="./mc_icon/decorations/barrel.png">木桶</td>
+			<td>barrel</td>
 			<td>头盔</td>
 		</tr>
         <tr>
@@ -299,7 +326,7 @@
 			<td>鞋</td>
 		</tr>
         <tr>
-            <td>摔落保护</td>
+            <td>摔落缓冲</td>
             <td>feather_falling</td>
             <td>Ⅳ</td>
             <td><img src="./mc_icon/misc/feather.png">羽毛</td>
@@ -313,6 +340,14 @@
             <td><img src="./mc_icon/misc/heart_of_the_sea.png">海洋之心</td>
 			<td>heart_of_the_sea</td>
 			<td>鞋</td>
+		</tr>
+        <tr>
+            <td>迅捷潜行</td>
+            <td>swift_sneak</td>
+            <td>Ⅲ</td>
+            <td><img src="./mc_icon/brewing/rabbit_foot.png">兔子脚</td>
+			<td>rabbit_foot</td>
+			<td>护腿</td>
 		</tr>
 	</tablebody>
 </table>

@@ -1,8 +1,8 @@
 <!-- _coverpage.md -->
 
-![logo](mc_icon/image/lemon%20tea_320.png)
+![logo](mc_icon/image/LemonTea_logo_320.png)
 
-# Lemon Tea <small>0.11_beta</small>
+# Lemon Tea <small>0.12_beta</small>
 
 > A datapack for MINECRAFT survival mode.
 
