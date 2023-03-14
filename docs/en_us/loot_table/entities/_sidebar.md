@@ -5,3 +5,4 @@
   * [Ender Dragon](/en_us/loot_table/entities/ender_dragon.md)
   * [Shulker](/en_us/loot_table/entities/shulker.md)
   * [Turtle](/en_us/loot_table/entities/turtle.md)
+  * [Iron Golem](/en_us/loot_table/entities/iron_golem.md)

@@ -6,3 +6,5 @@
 
 [海龜](/zh_tw/loot_table/entities/turtle.md)
 
+[鐵魔像](/zh_tw/loot_table/entities/iron_golem.md)
+

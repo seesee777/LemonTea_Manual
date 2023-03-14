@@ -6,3 +6,4 @@
 
 [海龟](/zh_cn/loot_table/entities/turtle.md)
 
+[铁傀儡](/zh_cn/loot_table/entities/iron_golem.md)
