@@ -18,7 +18,7 @@
 		</tr>
 		<tr>
 			<td><img src="mc_icon/decorations/lapis_lazuli.png"></td>
-			<td><img src="mc_icon/decorations/lapis_lazuli.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
 			<td><img src="mc_icon/decorations/lapis_lazuli.png"></td>
 			<td><img src="mc_icon/recipes/arrow.png"></td>
 			<td><img src="mc_icon/misc/amethyst_shard.png"></td>
@@ -45,14 +45,14 @@
 			<td><img src="mc_icon/misc/amethyst_shard.png"></td>
 			<td>紫水晶碎片</td>
 			<td>amethyst_shard</td>
-			<td>1</td>
+			<td>2</td>
 		</tr>
 		<tr>
-			<td><img src="mc_icon/recipes/02.png"><img src="mc_icon/recipes/04.png"><img src="mc_icon/recipes/05.png"><img src="mc_icon/recipes/06.png"><img src="mc_icon/recipes/08.png"></td>
+			<td><img src="mc_icon/recipes/02.png"><img src="mc_icon/recipes/04.png"><img src="mc_icon/recipes/06.png"><img src="mc_icon/recipes/08.png"></td>
 			<td><img src="mc_icon/decorations/lapis_lazuli.png"></td>
 			<td>青金石</td>
 			<td>lapis_lazuli</td>
-			<td>5</td>
+			<td>4</td>
 		</tr>
 	</tablebody>
 </table>
@@ -71,7 +71,7 @@
 		</tr>
 		<tr>
 			<td><img src="mc_icon/misc/amethyst_shard.png"></td>
-			<td><img src="mc_icon/recipes/empty.png"></td>
+			<td><img src="mc_icon/misc/amethyst_shard.png"></td>
 			<td><img src="mc_icon/recipes/empty.png"></td>
 			<td colspan="2"></td>
 		</tr>
@@ -104,10 +104,17 @@
 			<td><img src="mc_icon/decorations/lapis_lazuli.png"></td>
 			<td>青金石</td>
 			<td>lapis_lazuli</td>
-			<td>5</td>
+			<td>4</td>
 		</tr>
 		<tr>
 			<td><img src="mc_icon/recipes/01.png"></td>
+			<td><img src="mc_icon/misc/amethyst_shard.png"></td>
+			<td>紫水晶碎片</td>
+			<td>amethyst_shard</td>
+			<td>1</td>
+		</tr>
+		<tr>
+			<td><img src="mc_icon/recipes/02.png"></td>
 			<td><img src="mc_icon/misc/amethyst_shard.png"></td>
 			<td>紫水晶碎片</td>
 			<td>amethyst_shard</td>

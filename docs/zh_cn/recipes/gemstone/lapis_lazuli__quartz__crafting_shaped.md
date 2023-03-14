@@ -18,7 +18,7 @@
 		</tr>
 		<tr>
 			<td><img src="mc_icon/misc/quartz.png"></td>
-			<td><img src="mc_icon/misc/quartz.png"></td>
+			<td><img src="mc_icon/recipes/empty.png"></td>
 			<td><img src="mc_icon/misc/quartz.png"></td>
 			<td><img src="mc_icon/recipes/arrow.png"></td>
 			<td><img src="mc_icon/decorations/lapis_lazuli.png"></td>
@@ -45,14 +45,14 @@
 			<td><img src="mc_icon/decorations/lapis_lazuli.png"></td>
 			<td>青金石</td>
 			<td>lapis_lazuli</td>
-			<td>1</td>
+			<td>2</td>
 		</tr>
 		<tr>
-			<td><img src="mc_icon/recipes/02.png"><img src="mc_icon/recipes/04.png"><img src="mc_icon/recipes/05.png"><img src="mc_icon/recipes/06.png"><img src="mc_icon/recipes/08.png"></td>
+			<td><img src="mc_icon/recipes/02.png"><img src="mc_icon/recipes/04.png"><img src="mc_icon/recipes/06.png"><img src="mc_icon/recipes/08.png"></td>
 			<td><img src="mc_icon/misc/quartz.png"></td>
 			<td>下界石英</td>
 			<td>quartz</td>
-			<td>5</td>
+			<td>4</td>
 		</tr>
 	</tablebody>
 </table>
@@ -104,7 +104,7 @@
 			<td><img src="mc_icon/misc/quartz.png"></td>
 			<td>下界石英</td>
 			<td>quartz</td>
-			<td>10</td>
+			<td>4</td>
 		</tr>
 		<tr>
 			<td><img src="mc_icon/recipes/01.png"></td>
